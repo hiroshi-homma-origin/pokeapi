@@ -1,0 +1,415 @@
+[
+  {
+    "id": 441,
+    "name": {
+      "english": "Chatot",
+      "japanese": "ペラップ",
+      "chinese": "聒噪鸟",
+      "french": "Pijako"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 76,
+      "Attack": 65,
+      "Defense": 45,
+      "Sp. Attack": 92,
+      "Sp. Defense": 42,
+      "Speed": 91
+    }
+  },
+  {
+    "id": 442,
+    "name": {
+      "english": "Spiritomb",
+      "japanese": "ミカルゲ",
+      "chinese": "花岩怪",
+      "french": "Spiritomb"
+    },
+    "type": [
+      "Ghost",
+      "Dark"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 92,
+      "Defense": 108,
+      "Sp. Attack": 92,
+      "Sp. Defense": 108,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 443,
+    "name": {
+      "english": "Gible",
+      "japanese": "フカマル",
+      "chinese": "圆陆鲨",
+      "french": "Griknot"
+    },
+    "type": [
+      "Dragon",
+      "Ground"
+    ],
+    "base": {
+      "HP": 58,
+      "Attack": 70,
+      "Defense": 45,
+      "Sp. Attack": 40,
+      "Sp. Defense": 45,
+      "Speed": 42
+    }
+  },
+  {
+    "id": 444,
+    "name": {
+      "english": "Gabite",
+      "japanese": "ガバイト",
+      "chinese": "尖牙陆鲨",
+      "french": "Carmache"
+    },
+    "type": [
+      "Dragon",
+      "Ground"
+    ],
+    "base": {
+      "HP": 68,
+      "Attack": 90,
+      "Defense": 65,
+      "Sp. Attack": 50,
+      "Sp. Defense": 55,
+      "Speed": 82
+    }
+  },
+  {
+    "id": 445,
+    "name": {
+      "english": "Garchomp",
+      "japanese": "ガブリアス",
+      "chinese": "烈咬陆鲨",
+      "french": "Carchacrok"
+    },
+    "type": [
+      "Dragon",
+      "Ground"
+    ],
+    "base": {
+      "HP": 108,
+      "Attack": 130,
+      "Defense": 95,
+      "Sp. Attack": 80,
+      "Sp. Defense": 85,
+      "Speed": 102
+    }
+  },
+  {
+    "id": 446,
+    "name": {
+      "english": "Munchlax",
+      "japanese": "ゴンベ",
+      "chinese": "小卡比兽",
+      "french": "Goinfrex"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 135,
+      "Attack": 85,
+      "Defense": 40,
+      "Sp. Attack": 40,
+      "Sp. Defense": 85,
+      "Speed": 5
+    }
+  },
+  {
+    "id": 447,
+    "name": {
+      "english": "Riolu",
+      "japanese": "リオル",
+      "chinese": "利欧路",
+      "french": "Riolu"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 70,
+      "Defense": 40,
+      "Sp. Attack": 35,
+      "Sp. Defense": 40,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 448,
+    "name": {
+      "english": "Lucario",
+      "japanese": "ルカリオ",
+      "chinese": "路卡利欧",
+      "french": "Lucario"
+    },
+    "type": [
+      "Fighting",
+      "Steel"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 110,
+      "Defense": 70,
+      "Sp. Attack": 115,
+      "Sp. Defense": 70,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 449,
+    "name": {
+      "english": "Hippopotas",
+      "japanese": "ヒポポタス",
+      "chinese": "沙河马",
+      "french": "Hippopotas"
+    },
+    "type": [
+      "Ground"
+    ],
+    "base": {
+      "HP": 68,
+      "Attack": 72,
+      "Defense": 78,
+      "Sp. Attack": 38,
+      "Sp. Defense": 42,
+      "Speed": 32
+    }
+  },
+  {
+    "id": 450,
+    "name": {
+      "english": "Hippowdon",
+      "japanese": "カバルドン",
+      "chinese": "河马兽",
+      "french": "Hippodocus"
+    },
+    "type": [
+      "Ground"
+    ],
+    "base": {
+      "HP": 108,
+      "Attack": 112,
+      "Defense": 118,
+      "Sp. Attack": 68,
+      "Sp. Defense": 72,
+      "Speed": 47
+    }
+  },
+  {
+    "id": 451,
+    "name": {
+      "english": "Skorupi",
+      "japanese": "スコルピ",
+      "chinese": "钳尾蝎",
+      "french": "Rapion"
+    },
+    "type": [
+      "Poison",
+      "Bug"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 50,
+      "Defense": 90,
+      "Sp. Attack": 30,
+      "Sp. Defense": 55,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 452,
+    "name": {
+      "english": "Drapion",
+      "japanese": "ドラピオン",
+      "chinese": "龙王蝎",
+      "french": "Drascore"
+    },
+    "type": [
+      "Poison",
+      "Dark"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 90,
+      "Defense": 110,
+      "Sp. Attack": 60,
+      "Sp. Defense": 75,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 453,
+    "name": {
+      "english": "Croagunk",
+      "japanese": "グレッグル",
+      "chinese": "不良蛙",
+      "french": "Cradopaud"
+    },
+    "type": [
+      "Poison",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 48,
+      "Attack": 61,
+      "Defense": 40,
+      "Sp. Attack": 61,
+      "Sp. Defense": 40,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 454,
+    "name": {
+      "english": "Toxicroak",
+      "japanese": "ドクロッグ",
+      "chinese": "毒骷蛙",
+      "french": "Coatox"
+    },
+    "type": [
+      "Poison",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 83,
+      "Attack": 106,
+      "Defense": 65,
+      "Sp. Attack": 86,
+      "Sp. Defense": 65,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 455,
+    "name": {
+      "english": "Carnivine",
+      "japanese": "マスキッパ",
+      "chinese": "尖牙笼",
+      "french": "Vortente"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 74,
+      "Attack": 100,
+      "Defense": 72,
+      "Sp. Attack": 90,
+      "Sp. Defense": 72,
+      "Speed": 46
+    }
+  },
+  {
+    "id": 456,
+    "name": {
+      "english": "Finneon",
+      "japanese": "ケイコウオ",
+      "chinese": "荧光鱼",
+      "french": "Écayon"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 49,
+      "Attack": 49,
+      "Defense": 56,
+      "Sp. Attack": 49,
+      "Sp. Defense": 61,
+      "Speed": 66
+    }
+  },
+  {
+    "id": 457,
+    "name": {
+      "english": "Lumineon",
+      "japanese": "ネオラント",
+      "chinese": "霓虹鱼",
+      "french": "Luminéon"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 69,
+      "Attack": 69,
+      "Defense": 76,
+      "Sp. Attack": 69,
+      "Sp. Defense": 86,
+      "Speed": 91
+    }
+  },
+  {
+    "id": 458,
+    "name": {
+      "english": "Mantyke",
+      "japanese": "タマンタ",
+      "chinese": "小球飞鱼",
+      "french": "Babimanta"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 20,
+      "Defense": 50,
+      "Sp. Attack": 60,
+      "Sp. Defense": 120,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 459,
+    "name": {
+      "english": "Snover",
+      "japanese": "ユキカブリ",
+      "chinese": "雪笠怪",
+      "french": "Blizzi"
+    },
+    "type": [
+      "Grass",
+      "Ice"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 62,
+      "Defense": 50,
+      "Sp. Attack": 62,
+      "Sp. Defense": 60,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 460,
+    "name": {
+      "english": "Abomasnow",
+      "japanese": "ユキノオー",
+      "chinese": "暴雪王",
+      "french": "Blizzaroi"
+    },
+    "type": [
+      "Grass",
+      "Ice"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 92,
+      "Defense": 75,
+      "Sp. Attack": 92,
+      "Sp. Defense": 85,
+      "Speed": 60
+    }
+  }
+]

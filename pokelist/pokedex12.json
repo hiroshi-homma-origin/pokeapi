@@ -1,0 +1,412 @@
+[
+  {
+    "id": 241,
+    "name": {
+      "english": "Miltank",
+      "japanese": "ミルタンク",
+      "chinese": "大奶罐",
+      "french": "Écrémeuh"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 95,
+      "Attack": 80,
+      "Defense": 105,
+      "Sp. Attack": 40,
+      "Sp. Defense": 70,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 242,
+    "name": {
+      "english": "Blissey",
+      "japanese": "ハピナス",
+      "chinese": "幸福蛋",
+      "french": "Leuphorie"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 255,
+      "Attack": 10,
+      "Defense": 10,
+      "Sp. Attack": 75,
+      "Sp. Defense": 135,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 243,
+    "name": {
+      "english": "Raikou",
+      "japanese": "ライコウ",
+      "chinese": "雷公",
+      "french": "Raikou"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 85,
+      "Defense": 75,
+      "Sp. Attack": 115,
+      "Sp. Defense": 100,
+      "Speed": 115
+    }
+  },
+  {
+    "id": 244,
+    "name": {
+      "english": "Entei",
+      "japanese": "エンテイ",
+      "chinese": "炎帝",
+      "french": "Entei"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 115,
+      "Attack": 115,
+      "Defense": 85,
+      "Sp. Attack": 90,
+      "Sp. Defense": 75,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 245,
+    "name": {
+      "english": "Suicune",
+      "japanese": "スイクン",
+      "chinese": "水君",
+      "french": "Suicune"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 75,
+      "Defense": 115,
+      "Sp. Attack": 90,
+      "Sp. Defense": 115,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 246,
+    "name": {
+      "english": "Larvitar",
+      "japanese": "ヨーギラス",
+      "chinese": "幼基拉斯",
+      "french": "Embrylex"
+    },
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 64,
+      "Defense": 50,
+      "Sp. Attack": 45,
+      "Sp. Defense": 50,
+      "Speed": 41
+    }
+  },
+  {
+    "id": 247,
+    "name": {
+      "english": "Pupitar",
+      "japanese": "サナギラス",
+      "chinese": "沙基拉斯",
+      "french": "Ymphect"
+    },
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 84,
+      "Defense": 70,
+      "Sp. Attack": 65,
+      "Sp. Defense": 70,
+      "Speed": 51
+    }
+  },
+  {
+    "id": 248,
+    "name": {
+      "english": "Tyranitar",
+      "japanese": "バンギラス",
+      "chinese": "班基拉斯",
+      "french": "Tyranocif"
+    },
+    "type": [
+      "Rock",
+      "Dark"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 134,
+      "Defense": 110,
+      "Sp. Attack": 95,
+      "Sp. Defense": 100,
+      "Speed": 61
+    }
+  },
+  {
+    "id": 249,
+    "name": {
+      "english": "Lugia",
+      "japanese": "ルギア",
+      "chinese": "洛奇亚",
+      "french": "Lugia"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "base": {
+      "HP": 106,
+      "Attack": 90,
+      "Defense": 130,
+      "Sp. Attack": 90,
+      "Sp. Defense": 154,
+      "Speed": 110
+    }
+  },
+  {
+    "id": 250,
+    "name": {
+      "english": "Ho-Oh",
+      "japanese": "ホウオウ",
+      "chinese": "凤王",
+      "french": "Ho-Oh"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "base": {
+      "HP": 106,
+      "Attack": 130,
+      "Defense": 90,
+      "Sp. Attack": 110,
+      "Sp. Defense": 154,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 251,
+    "name": {
+      "english": "Celebi",
+      "japanese": "セレビィ",
+      "chinese": "时拉比",
+      "french": "Celebi"
+    },
+    "type": [
+      "Psychic",
+      "Grass"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 252,
+    "name": {
+      "english": "Treecko",
+      "japanese": "キモリ",
+      "chinese": "木守宫",
+      "french": "Arcko"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 35,
+      "Sp. Attack": 65,
+      "Sp. Defense": 55,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 253,
+    "name": {
+      "english": "Grovyle",
+      "japanese": "ジュプトル",
+      "chinese": "森林蜥蜴",
+      "french": "Massko"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 65,
+      "Defense": 45,
+      "Sp. Attack": 85,
+      "Sp. Defense": 65,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 254,
+    "name": {
+      "english": "Sceptile",
+      "japanese": "ジュカイン",
+      "chinese": "蜥蜴王",
+      "french": "Jungko"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 65,
+      "Sp. Attack": 105,
+      "Sp. Defense": 85,
+      "Speed": 120
+    }
+  },
+  {
+    "id": 255,
+    "name": {
+      "english": "Torchic",
+      "japanese": "アチャモ",
+      "chinese": "火稚鸡",
+      "french": "Poussifeu"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 60,
+      "Defense": 40,
+      "Sp. Attack": 70,
+      "Sp. Defense": 50,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 256,
+    "name": {
+      "english": "Combusken",
+      "japanese": "ワカシャモ",
+      "chinese": "力壮鸡",
+      "french": "Galifeu"
+    },
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 85,
+      "Defense": 60,
+      "Sp. Attack": 85,
+      "Sp. Defense": 60,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 257,
+    "name": {
+      "english": "Blaziken",
+      "japanese": "バシャーモ",
+      "chinese": "火焰鸡",
+      "french": "Braségali"
+    },
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 120,
+      "Defense": 70,
+      "Sp. Attack": 110,
+      "Sp. Defense": 70,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 258,
+    "name": {
+      "english": "Mudkip",
+      "japanese": "ミズゴロウ",
+      "chinese": "水跃鱼",
+      "french": "Gobou"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 70,
+      "Defense": 50,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 259,
+    "name": {
+      "english": "Marshtomp",
+      "japanese": "ヌマクロー",
+      "chinese": "沼跃鱼",
+      "french": "Flobio"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 70,
+      "Sp. Attack": 60,
+      "Sp. Defense": 70,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 260,
+    "name": {
+      "english": "Swampert",
+      "japanese": "ラグラージ",
+      "chinese": "巨沼怪",
+      "french": "Laggron"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 110,
+      "Defense": 90,
+      "Sp. Attack": 85,
+      "Sp. Defense": 90,
+      "Speed": 60
+    }
+  }
+]

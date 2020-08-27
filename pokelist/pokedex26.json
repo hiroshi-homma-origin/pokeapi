@@ -1,0 +1,404 @@
+[
+  {
+    "id": 501,
+    "name": {
+      "english": "Oshawott",
+      "japanese": "ミジュマル",
+      "chinese": "水水獭",
+      "french": "Moustillon"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 55,
+      "Defense": 45,
+      "Sp. Attack": 63,
+      "Sp. Defense": 45,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 502,
+    "name": {
+      "english": "Dewott",
+      "japanese": "フタチマル",
+      "chinese": "双刃丸",
+      "french": "Mateloutre"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 75,
+      "Defense": 60,
+      "Sp. Attack": 83,
+      "Sp. Defense": 60,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 503,
+    "name": {
+      "english": "Samurott",
+      "japanese": "ダイケンキ",
+      "chinese": "大剑鬼",
+      "french": "Clamiral"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 95,
+      "Attack": 100,
+      "Defense": 85,
+      "Sp. Attack": 108,
+      "Sp. Defense": 70,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 504,
+    "name": {
+      "english": "Patrat",
+      "japanese": "ミネズミ",
+      "chinese": "探探鼠",
+      "french": "Ratentif"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 55,
+      "Defense": 39,
+      "Sp. Attack": 35,
+      "Sp. Defense": 39,
+      "Speed": 42
+    }
+  },
+  {
+    "id": 505,
+    "name": {
+      "english": "Watchog",
+      "japanese": "ミルホッグ",
+      "chinese": "步哨鼠",
+      "french": "Miradar"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 85,
+      "Defense": 69,
+      "Sp. Attack": 60,
+      "Sp. Defense": 69,
+      "Speed": 77
+    }
+  },
+  {
+    "id": 506,
+    "name": {
+      "english": "Lillipup",
+      "japanese": "ヨーテリー",
+      "chinese": "小约克",
+      "french": "Ponchiot"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 60,
+      "Defense": 45,
+      "Sp. Attack": 25,
+      "Sp. Defense": 45,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 507,
+    "name": {
+      "english": "Herdier",
+      "japanese": "ハーデリア",
+      "chinese": "哈约克",
+      "french": "Ponchien"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 80,
+      "Defense": 65,
+      "Sp. Attack": 35,
+      "Sp. Defense": 65,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 508,
+    "name": {
+      "english": "Stoutland",
+      "japanese": "ムーランド",
+      "chinese": "长毛狗",
+      "french": "Mastouffe"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 110,
+      "Defense": 90,
+      "Sp. Attack": 45,
+      "Sp. Defense": 90,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 509,
+    "name": {
+      "english": "Purrloin",
+      "japanese": "チョロネコ",
+      "chinese": "扒手猫",
+      "french": "Chacripan"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 41,
+      "Attack": 50,
+      "Defense": 37,
+      "Sp. Attack": 50,
+      "Sp. Defense": 37,
+      "Speed": 66
+    }
+  },
+  {
+    "id": 510,
+    "name": {
+      "english": "Liepard",
+      "japanese": "レパルダス",
+      "chinese": "酷豹",
+      "french": "Léopardus"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 64,
+      "Attack": 88,
+      "Defense": 50,
+      "Sp. Attack": 88,
+      "Sp. Defense": 50,
+      "Speed": 106
+    }
+  },
+  {
+    "id": 511,
+    "name": {
+      "english": "Pansage",
+      "japanese": "ヤナップ",
+      "chinese": "花椰猴",
+      "french": "Feuillajou"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 53,
+      "Defense": 48,
+      "Sp. Attack": 53,
+      "Sp. Defense": 48,
+      "Speed": 64
+    }
+  },
+  {
+    "id": 512,
+    "name": {
+      "english": "Simisage",
+      "japanese": "ヤナッキー",
+      "chinese": "花椰猿",
+      "french": "Feuiloutan"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 98,
+      "Defense": 63,
+      "Sp. Attack": 98,
+      "Sp. Defense": 63,
+      "Speed": 101
+    }
+  },
+  {
+    "id": 513,
+    "name": {
+      "english": "Pansear",
+      "japanese": "バオップ",
+      "chinese": "爆香猴",
+      "french": "Flamajou"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 53,
+      "Defense": 48,
+      "Sp. Attack": 53,
+      "Sp. Defense": 48,
+      "Speed": 64
+    }
+  },
+  {
+    "id": 514,
+    "name": {
+      "english": "Simisear",
+      "japanese": "バオッキー",
+      "chinese": "爆香猿",
+      "french": "Flamoutan"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 98,
+      "Defense": 63,
+      "Sp. Attack": 98,
+      "Sp. Defense": 63,
+      "Speed": 101
+    }
+  },
+  {
+    "id": 515,
+    "name": {
+      "english": "Panpour",
+      "japanese": "ヒヤップ",
+      "chinese": "冷水猴",
+      "french": "Flotajou"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 53,
+      "Defense": 48,
+      "Sp. Attack": 53,
+      "Sp. Defense": 48,
+      "Speed": 64
+    }
+  },
+  {
+    "id": 516,
+    "name": {
+      "english": "Simipour",
+      "japanese": "ヒヤッキー",
+      "chinese": "冷水猿",
+      "french": "Flotoutan"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 98,
+      "Defense": 63,
+      "Sp. Attack": 98,
+      "Sp. Defense": 63,
+      "Speed": 101
+    }
+  },
+  {
+    "id": 517,
+    "name": {
+      "english": "Munna",
+      "japanese": "ムンナ",
+      "chinese": "食梦梦",
+      "french": "Munna"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 76,
+      "Attack": 25,
+      "Defense": 45,
+      "Sp. Attack": 67,
+      "Sp. Defense": 55,
+      "Speed": 24
+    }
+  },
+  {
+    "id": 518,
+    "name": {
+      "english": "Musharna",
+      "japanese": "ムシャーナ",
+      "chinese": "梦梦蚀",
+      "french": "Mushana"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 116,
+      "Attack": 55,
+      "Defense": 85,
+      "Sp. Attack": 107,
+      "Sp. Defense": 95,
+      "Speed": 29
+    }
+  },
+  {
+    "id": 519,
+    "name": {
+      "english": "Pidove",
+      "japanese": "マメパト",
+      "chinese": "豆豆鸽",
+      "french": "Poichigeon"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 55,
+      "Defense": 50,
+      "Sp. Attack": 36,
+      "Sp. Defense": 30,
+      "Speed": 43
+    }
+  },
+  {
+    "id": 520,
+    "name": {
+      "english": "Tranquill",
+      "japanese": "ハトーボー",
+      "chinese": "咕咕鸽",
+      "french": "Colombeau"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 62,
+      "Attack": 77,
+      "Defense": 62,
+      "Sp. Attack": 50,
+      "Sp. Defense": 42,
+      "Speed": 65
+    }
+  }
+]

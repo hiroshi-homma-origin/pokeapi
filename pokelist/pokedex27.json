@@ -1,0 +1,409 @@
+[
+  {
+    "id": 521,
+    "name": {
+      "english": "Unfezant",
+      "japanese": "ケンホロウ",
+      "chinese": "高傲雉鸡",
+      "french": "Déflaisan"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 115,
+      "Defense": 80,
+      "Sp. Attack": 65,
+      "Sp. Defense": 55,
+      "Speed": 93
+    }
+  },
+  {
+    "id": 522,
+    "name": {
+      "english": "Blitzle",
+      "japanese": "シママ",
+      "chinese": "斑斑马",
+      "french": "Zébibron"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 60,
+      "Defense": 32,
+      "Sp. Attack": 50,
+      "Sp. Defense": 32,
+      "Speed": 76
+    }
+  },
+  {
+    "id": 523,
+    "name": {
+      "english": "Zebstrika",
+      "japanese": "ゼブライカ",
+      "chinese": "雷电斑马",
+      "french": "Zéblitz"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 100,
+      "Defense": 63,
+      "Sp. Attack": 80,
+      "Sp. Defense": 63,
+      "Speed": 116
+    }
+  },
+  {
+    "id": 524,
+    "name": {
+      "english": "Roggenrola",
+      "japanese": "ダンゴロ",
+      "chinese": "石丸子",
+      "french": "Nodulithe"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 75,
+      "Defense": 85,
+      "Sp. Attack": 25,
+      "Sp. Defense": 25,
+      "Speed": 15
+    }
+  },
+  {
+    "id": 525,
+    "name": {
+      "english": "Boldore",
+      "japanese": "ガントル",
+      "chinese": "地幔岩",
+      "french": "Géolithe"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 105,
+      "Defense": 105,
+      "Sp. Attack": 50,
+      "Sp. Defense": 40,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 526,
+    "name": {
+      "english": "Gigalith",
+      "japanese": "ギガイアス",
+      "chinese": "庞岩怪",
+      "french": "Gigalithe"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 135,
+      "Defense": 130,
+      "Sp. Attack": 60,
+      "Sp. Defense": 80,
+      "Speed": 25
+    }
+  },
+  {
+    "id": 527,
+    "name": {
+      "english": "Woobat",
+      "japanese": "コロモリ",
+      "chinese": "滚滚蝙蝠",
+      "french": "Chovsourir"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 45,
+      "Defense": 43,
+      "Sp. Attack": 55,
+      "Sp. Defense": 43,
+      "Speed": 72
+    }
+  },
+  {
+    "id": 528,
+    "name": {
+      "english": "Swoobat",
+      "japanese": "ココロモリ",
+      "chinese": "心蝙蝠",
+      "french": "Rhinolove"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "base": {
+      "HP": 67,
+      "Attack": 57,
+      "Defense": 55,
+      "Sp. Attack": 77,
+      "Sp. Defense": 55,
+      "Speed": 114
+    }
+  },
+  {
+    "id": 529,
+    "name": {
+      "english": "Drilbur",
+      "japanese": "モグリュー",
+      "chinese": "螺钉地鼠",
+      "french": "Rototaupe"
+    },
+    "type": [
+      "Ground"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 85,
+      "Defense": 40,
+      "Sp. Attack": 30,
+      "Sp. Defense": 45,
+      "Speed": 68
+    }
+  },
+  {
+    "id": 530,
+    "name": {
+      "english": "Excadrill",
+      "japanese": "ドリュウズ",
+      "chinese": "龙头地鼠",
+      "french": "Minotaupe"
+    },
+    "type": [
+      "Ground",
+      "Steel"
+    ],
+    "base": {
+      "HP": 110,
+      "Attack": 135,
+      "Defense": 60,
+      "Sp. Attack": 50,
+      "Sp. Defense": 65,
+      "Speed": 88
+    }
+  },
+  {
+    "id": 531,
+    "name": {
+      "english": "Audino",
+      "japanese": "タブンネ",
+      "chinese": "差不多娃娃",
+      "french": "Nanméouïe"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 103,
+      "Attack": 60,
+      "Defense": 86,
+      "Sp. Attack": 60,
+      "Sp. Defense": 86,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 532,
+    "name": {
+      "english": "Timburr",
+      "japanese": "ドッコラー",
+      "chinese": "搬运小匠",
+      "french": "Charpenti"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 80,
+      "Defense": 55,
+      "Sp. Attack": 25,
+      "Sp. Defense": 35,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 533,
+    "name": {
+      "english": "Gurdurr",
+      "japanese": "ドテッコツ",
+      "chinese": "铁骨土人",
+      "french": "Ouvrifier"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 105,
+      "Defense": 85,
+      "Sp. Attack": 40,
+      "Sp. Defense": 50,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 534,
+    "name": {
+      "english": "Conkeldurr",
+      "japanese": "ローブシン",
+      "chinese": "修建老匠",
+      "french": "Bétochef"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 105,
+      "Attack": 140,
+      "Defense": 95,
+      "Sp. Attack": 55,
+      "Sp. Defense": 65,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 535,
+    "name": {
+      "english": "Tympole",
+      "japanese": "オタマロ",
+      "chinese": "圆蝌蚪",
+      "french": "Tritonde"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 50,
+      "Defense": 40,
+      "Sp. Attack": 50,
+      "Sp. Defense": 40,
+      "Speed": 64
+    }
+  },
+  {
+    "id": 536,
+    "name": {
+      "english": "Palpitoad",
+      "japanese": "ガマガル",
+      "chinese": "蓝蟾蜍",
+      "french": "Batracné"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 65,
+      "Defense": 55,
+      "Sp. Attack": 65,
+      "Sp. Defense": 55,
+      "Speed": 69
+    }
+  },
+  {
+    "id": 537,
+    "name": {
+      "english": "Seismitoad",
+      "japanese": "ガマゲロゲ",
+      "chinese": "蟾蜍王",
+      "french": "Crapustule"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "base": {
+      "HP": 105,
+      "Attack": 95,
+      "Defense": 75,
+      "Sp. Attack": 85,
+      "Sp. Defense": 75,
+      "Speed": 74
+    }
+  },
+  {
+    "id": 538,
+    "name": {
+      "english": "Throh",
+      "japanese": "ナゲキ",
+      "chinese": "投摔鬼",
+      "french": "Judokrak"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 120,
+      "Attack": 100,
+      "Defense": 85,
+      "Sp. Attack": 30,
+      "Sp. Defense": 85,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 539,
+    "name": {
+      "english": "Sawk",
+      "japanese": "ダゲキ",
+      "chinese": "打击鬼",
+      "french": "Karaclée"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 125,
+      "Defense": 75,
+      "Sp. Attack": 30,
+      "Sp. Defense": 75,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 540,
+    "name": {
+      "english": "Sewaddle",
+      "japanese": "クルミル",
+      "chinese": "虫宝包",
+      "french": "Larveyette"
+    },
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 53,
+      "Defense": 70,
+      "Sp. Attack": 40,
+      "Sp. Defense": 60,
+      "Speed": 42
+    }
+  }
+]

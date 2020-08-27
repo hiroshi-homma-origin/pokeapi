@@ -1,0 +1,411 @@
+[
+  {
+    "id": 281,
+    "name": {
+      "english": "Kirlia",
+      "japanese": "キルリア",
+      "chinese": "奇鲁莉安",
+      "french": "Kirlia"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 38,
+      "Attack": 35,
+      "Defense": 35,
+      "Sp. Attack": 65,
+      "Sp. Defense": 55,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 282,
+    "name": {
+      "english": "Gardevoir",
+      "japanese": "サーナイト",
+      "chinese": "沙奈朵",
+      "french": "Gardevoir"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 68,
+      "Attack": 65,
+      "Defense": 65,
+      "Sp. Attack": 125,
+      "Sp. Defense": 115,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 283,
+    "name": {
+      "english": "Surskit",
+      "japanese": "アメタマ",
+      "chinese": "溜溜糖球",
+      "french": "Arakdo"
+    },
+    "type": [
+      "Bug",
+      "Water"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 30,
+      "Defense": 32,
+      "Sp. Attack": 50,
+      "Sp. Defense": 52,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 284,
+    "name": {
+      "english": "Masquerain",
+      "japanese": "アメモース",
+      "chinese": "雨翅蛾",
+      "french": "Maskadra"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 60,
+      "Defense": 62,
+      "Sp. Attack": 100,
+      "Sp. Defense": 82,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 285,
+    "name": {
+      "english": "Shroomish",
+      "japanese": "キノココ",
+      "chinese": "蘑蘑菇",
+      "french": "Balignon"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 40,
+      "Defense": 60,
+      "Sp. Attack": 40,
+      "Sp. Defense": 60,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 286,
+    "name": {
+      "english": "Breloom",
+      "japanese": "キノガッサ",
+      "chinese": "斗笠菇",
+      "french": "Chapignon"
+    },
+    "type": [
+      "Grass",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 130,
+      "Defense": 80,
+      "Sp. Attack": 60,
+      "Sp. Defense": 60,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 287,
+    "name": {
+      "english": "Slakoth",
+      "japanese": "ナマケロ",
+      "chinese": "懒人獭",
+      "french": "Parecool"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 60,
+      "Defense": 60,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 288,
+    "name": {
+      "english": "Vigoroth",
+      "japanese": "ヤルキモノ",
+      "chinese": "过动猿",
+      "french": "Vigoroth"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 80,
+      "Defense": 80,
+      "Sp. Attack": 55,
+      "Sp. Defense": 55,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 289,
+    "name": {
+      "english": "Slaking",
+      "japanese": "ケッキング",
+      "chinese": "请假王",
+      "french": "Monaflèmit"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 150,
+      "Attack": 160,
+      "Defense": 100,
+      "Sp. Attack": 95,
+      "Sp. Defense": 65,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 290,
+    "name": {
+      "english": "Nincada",
+      "japanese": "ツチニン",
+      "chinese": "土居忍士",
+      "french": "Ningale"
+    },
+    "type": [
+      "Bug",
+      "Ground"
+    ],
+    "base": {
+      "HP": 31,
+      "Attack": 45,
+      "Defense": 90,
+      "Sp. Attack": 30,
+      "Sp. Defense": 30,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 291,
+    "name": {
+      "english": "Ninjask",
+      "japanese": "テッカニン",
+      "chinese": "铁面忍者",
+      "french": "Ninjask"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "base": {
+      "HP": 61,
+      "Attack": 90,
+      "Defense": 45,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 160
+    }
+  },
+  {
+    "id": 292,
+    "name": {
+      "english": "Shedinja",
+      "japanese": "ヌケニン",
+      "chinese": "脱壳忍者",
+      "french": "Munja"
+    },
+    "type": [
+      "Bug",
+      "Ghost"
+    ],
+    "base": {
+      "HP": 1,
+      "Attack": 90,
+      "Defense": 45,
+      "Sp. Attack": 30,
+      "Sp. Defense": 30,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 293,
+    "name": {
+      "english": "Whismur",
+      "japanese": "ゴニョニョ",
+      "chinese": "咕妞妞",
+      "french": "Chuchmur"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 64,
+      "Attack": 51,
+      "Defense": 23,
+      "Sp. Attack": 51,
+      "Sp. Defense": 23,
+      "Speed": 28
+    }
+  },
+  {
+    "id": 294,
+    "name": {
+      "english": "Loudred",
+      "japanese": "ドゴーム",
+      "chinese": "吼爆弹",
+      "french": "Ramboum"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 84,
+      "Attack": 71,
+      "Defense": 43,
+      "Sp. Attack": 71,
+      "Sp. Defense": 43,
+      "Speed": 48
+    }
+  },
+  {
+    "id": 295,
+    "name": {
+      "english": "Exploud",
+      "japanese": "バクオング",
+      "chinese": "爆音怪",
+      "french": "Brouhabam"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 104,
+      "Attack": 91,
+      "Defense": 63,
+      "Sp. Attack": 91,
+      "Sp. Defense": 73,
+      "Speed": 68
+    }
+  },
+  {
+    "id": 296,
+    "name": {
+      "english": "Makuhita",
+      "japanese": "マクノシタ",
+      "chinese": "幕下力士",
+      "french": "Makuhita"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 72,
+      "Attack": 60,
+      "Defense": 30,
+      "Sp. Attack": 20,
+      "Sp. Defense": 30,
+      "Speed": 25
+    }
+  },
+  {
+    "id": 297,
+    "name": {
+      "english": "Hariyama",
+      "japanese": "ハリテヤマ",
+      "chinese": "铁掌力士",
+      "french": "Hariyama"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 144,
+      "Attack": 120,
+      "Defense": 60,
+      "Sp. Attack": 40,
+      "Sp. Defense": 60,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 298,
+    "name": {
+      "english": "Azurill",
+      "japanese": "ルリリ",
+      "chinese": "露力丽",
+      "french": "Azurill"
+    },
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 20,
+      "Defense": 40,
+      "Sp. Attack": 20,
+      "Sp. Defense": 40,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 299,
+    "name": {
+      "english": "Nosepass",
+      "japanese": "ノズパス",
+      "chinese": "朝北鼻",
+      "french": "Tarinor"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 30,
+      "Attack": 45,
+      "Defense": 135,
+      "Sp. Attack": 45,
+      "Sp. Defense": 90,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 300,
+    "name": {
+      "english": "Skitty",
+      "japanese": "エネコ",
+      "chinese": "向尾喵",
+      "french": "Skitty"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 45,
+      "Defense": 45,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
+      "Speed": 50
+    }
+  }
+]

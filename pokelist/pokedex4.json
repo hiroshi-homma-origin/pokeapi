@@ -1,0 +1,413 @@
+[
+  {
+    "id": 81,
+    "name": {
+      "english": "Magnemite",
+      "japanese": "コイル",
+      "chinese": "小磁怪",
+      "french": "Magnéti"
+    },
+    "type": [
+      "Electric",
+      "Steel"
+    ],
+    "base": {
+      "HP": 25,
+      "Attack": 35,
+      "Defense": 70,
+      "Sp. Attack": 95,
+      "Sp. Defense": 55,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 82,
+    "name": {
+      "english": "Magneton",
+      "japanese": "レアコイル",
+      "chinese": "三合一磁怪",
+      "french": "Magnéton"
+    },
+    "type": [
+      "Electric",
+      "Steel"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 60,
+      "Defense": 95,
+      "Sp. Attack": 120,
+      "Sp. Defense": 70,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 83,
+    "name": {
+      "english": "Farfetch'd",
+      "japanese": "カモネギ",
+      "chinese": "大葱鸭",
+      "french": "Canarticho"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 52,
+      "Attack": 90,
+      "Defense": 55,
+      "Sp. Attack": 58,
+      "Sp. Defense": 62,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 84,
+    "name": {
+      "english": "Doduo",
+      "japanese": "ドードー",
+      "chinese": "嘟嘟",
+      "french": "Doduo"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 85,
+      "Defense": 45,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 85,
+    "name": {
+      "english": "Dodrio",
+      "japanese": "ドードリオ",
+      "chinese": "嘟嘟利",
+      "french": "Dodrio"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 110,
+      "Defense": 70,
+      "Sp. Attack": 60,
+      "Sp. Defense": 60,
+      "Speed": 110
+    }
+  },
+  {
+    "id": 86,
+    "name": {
+      "english": "Seel",
+      "japanese": "パウワウ",
+      "chinese": "小海狮",
+      "french": "Otaria"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 45,
+      "Defense": 55,
+      "Sp. Attack": 45,
+      "Sp. Defense": 70,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 87,
+    "name": {
+      "english": "Dewgong",
+      "japanese": "ジュゴン",
+      "chinese": "白海狮",
+      "french": "Lamantine"
+    },
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 70,
+      "Defense": 80,
+      "Sp. Attack": 70,
+      "Sp. Defense": 95,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 88,
+    "name": {
+      "english": "Grimer",
+      "japanese": "ベトベター",
+      "chinese": "臭泥",
+      "french": "Tadmorv"
+    },
+    "type": [
+      "Poison"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 80,
+      "Defense": 50,
+      "Sp. Attack": 40,
+      "Sp. Defense": 50,
+      "Speed": 25
+    }
+  },
+  {
+    "id": 89,
+    "name": {
+      "english": "Muk",
+      "japanese": "ベトベトン",
+      "chinese": "臭臭泥",
+      "french": "Grotadmorv"
+    },
+    "type": [
+      "Poison"
+    ],
+    "base": {
+      "HP": 105,
+      "Attack": 105,
+      "Defense": 75,
+      "Sp. Attack": 65,
+      "Sp. Defense": 100,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 90,
+    "name": {
+      "english": "Shellder",
+      "japanese": "シェルダー",
+      "chinese": "大舌贝",
+      "french": "Kokiyas"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 30,
+      "Attack": 65,
+      "Defense": 100,
+      "Sp. Attack": 45,
+      "Sp. Defense": 25,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 91,
+    "name": {
+      "english": "Cloyster",
+      "japanese": "パルシェン",
+      "chinese": "刺甲贝",
+      "french": "Crustabri"
+    },
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 95,
+      "Defense": 180,
+      "Sp. Attack": 85,
+      "Sp. Defense": 45,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 92,
+    "name": {
+      "english": "Gastly",
+      "japanese": "ゴース",
+      "chinese": "鬼斯",
+      "french": "Fantominus"
+    },
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "base": {
+      "HP": 30,
+      "Attack": 35,
+      "Defense": 30,
+      "Sp. Attack": 100,
+      "Sp. Defense": 35,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 93,
+    "name": {
+      "english": "Haunter",
+      "japanese": "ゴースト",
+      "chinese": "鬼斯通",
+      "french": "Spectrum"
+    },
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 50,
+      "Defense": 45,
+      "Sp. Attack": 115,
+      "Sp. Defense": 55,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 94,
+    "name": {
+      "english": "Gengar",
+      "japanese": "ゲンガー",
+      "chinese": "耿鬼",
+      "french": "Ectoplasma"
+    },
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 65,
+      "Defense": 60,
+      "Sp. Attack": 130,
+      "Sp. Defense": 75,
+      "Speed": 110
+    }
+  },
+  {
+    "id": 95,
+    "name": {
+      "english": "Onix",
+      "japanese": "イワーク",
+      "chinese": "大岩蛇",
+      "french": "Onix"
+    },
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 45,
+      "Defense": 160,
+      "Sp. Attack": 30,
+      "Sp. Defense": 45,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 96,
+    "name": {
+      "english": "Drowzee",
+      "japanese": "スリープ",
+      "chinese": "催眠貘",
+      "french": "Soporifik"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 48,
+      "Defense": 45,
+      "Sp. Attack": 43,
+      "Sp. Defense": 90,
+      "Speed": 42
+    }
+  },
+  {
+    "id": 97,
+    "name": {
+      "english": "Hypno",
+      "japanese": "スリーパー",
+      "chinese": "引梦貘人",
+      "french": "Hypnomade"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 73,
+      "Defense": 70,
+      "Sp. Attack": 73,
+      "Sp. Defense": 115,
+      "Speed": 67
+    }
+  },
+  {
+    "id": 98,
+    "name": {
+      "english": "Krabby",
+      "japanese": "クラブ",
+      "chinese": "大钳蟹",
+      "french": "Krabby"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 30,
+      "Attack": 105,
+      "Defense": 90,
+      "Sp. Attack": 25,
+      "Sp. Defense": 25,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 99,
+    "name": {
+      "english": "Kingler",
+      "japanese": "キングラー",
+      "chinese": "巨钳蟹",
+      "french": "Krabboss"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 130,
+      "Defense": 115,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 100,
+    "name": {
+      "english": "Voltorb",
+      "japanese": "ビリリダマ",
+      "chinese": "霹雳电球",
+      "french": "Voltorbe"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 30,
+      "Defense": 50,
+      "Sp. Attack": 55,
+      "Sp. Defense": 55,
+      "Speed": 100
+    }
+  }
+]

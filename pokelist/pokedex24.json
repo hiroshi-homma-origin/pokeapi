@@ -1,0 +1,413 @@
+[
+  {
+    "id": 461,
+    "name": {
+      "english": "Weavile",
+      "japanese": "マニューラ",
+      "chinese": "玛狃拉",
+      "french": "Dimoret"
+    },
+    "type": [
+      "Dark",
+      "Ice"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 120,
+      "Defense": 65,
+      "Sp. Attack": 45,
+      "Sp. Defense": 85,
+      "Speed": 125
+    }
+  },
+  {
+    "id": 462,
+    "name": {
+      "english": "Magnezone",
+      "japanese": "ジバコイル",
+      "chinese": "自爆磁怪",
+      "french": "Magnézone"
+    },
+    "type": [
+      "Electric",
+      "Steel"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 70,
+      "Defense": 115,
+      "Sp. Attack": 130,
+      "Sp. Defense": 90,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 463,
+    "name": {
+      "english": "Lickilicky",
+      "japanese": "ベロベルト",
+      "chinese": "大舌舔",
+      "french": "Coudlangue"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 110,
+      "Attack": 85,
+      "Defense": 95,
+      "Sp. Attack": 80,
+      "Sp. Defense": 95,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 464,
+    "name": {
+      "english": "Rhyperior",
+      "japanese": "ドサイドン",
+      "chinese": "超甲狂犀",
+      "french": "Rhinastoc"
+    },
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "base": {
+      "HP": 115,
+      "Attack": 140,
+      "Defense": 130,
+      "Sp. Attack": 55,
+      "Sp. Defense": 55,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 465,
+    "name": {
+      "english": "Tangrowth",
+      "japanese": "モジャンボ",
+      "chinese": "巨蔓藤",
+      "french": "Bouldeneu"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 125,
+      "Sp. Attack": 110,
+      "Sp. Defense": 50,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 466,
+    "name": {
+      "english": "Electivire",
+      "japanese": "エレキブル",
+      "chinese": "电击魔兽",
+      "french": "Élekable"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 123,
+      "Defense": 67,
+      "Sp. Attack": 95,
+      "Sp. Defense": 85,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 467,
+    "name": {
+      "english": "Magmortar",
+      "japanese": "ブーバーン",
+      "chinese": "鸭嘴炎兽",
+      "french": "Maganon"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 95,
+      "Defense": 67,
+      "Sp. Attack": 125,
+      "Sp. Defense": 95,
+      "Speed": 83
+    }
+  },
+  {
+    "id": 468,
+    "name": {
+      "english": "Togekiss",
+      "japanese": "トゲキッス",
+      "chinese": "波克基斯",
+      "french": "Togekiss"
+    },
+    "type": [
+      "Fairy",
+      "Flying"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 50,
+      "Defense": 95,
+      "Sp. Attack": 120,
+      "Sp. Defense": 115,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 469,
+    "name": {
+      "english": "Yanmega",
+      "japanese": "メガヤンマ",
+      "chinese": "远古巨蜓",
+      "french": "Yanmega"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "base": {
+      "HP": 86,
+      "Attack": 76,
+      "Defense": 86,
+      "Sp. Attack": 116,
+      "Sp. Defense": 56,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 470,
+    "name": {
+      "english": "Leafeon",
+      "japanese": "リーフィア",
+      "chinese": "叶伊布",
+      "french": "Phyllali"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 110,
+      "Defense": 130,
+      "Sp. Attack": 60,
+      "Sp. Defense": 65,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 471,
+    "name": {
+      "english": "Glaceon",
+      "japanese": "グレイシア",
+      "chinese": "冰伊布",
+      "french": "Givrali"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 60,
+      "Defense": 110,
+      "Sp. Attack": 130,
+      "Sp. Defense": 95,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 472,
+    "name": {
+      "english": "Gliscor",
+      "japanese": "グライオン",
+      "chinese": "天蝎王",
+      "french": "Scorvol"
+    },
+    "type": [
+      "Ground",
+      "Flying"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 95,
+      "Defense": 125,
+      "Sp. Attack": 45,
+      "Sp. Defense": 75,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 473,
+    "name": {
+      "english": "Mamoswine",
+      "japanese": "マンムー",
+      "chinese": "象牙猪",
+      "french": "Mammochon"
+    },
+    "type": [
+      "Ice",
+      "Ground"
+    ],
+    "base": {
+      "HP": 110,
+      "Attack": 130,
+      "Defense": 80,
+      "Sp. Attack": 70,
+      "Sp. Defense": 60,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 474,
+    "name": {
+      "english": "Porygon-Z",
+      "japanese": "ポリゴンＺ",
+      "chinese": "多边兽Ｚ",
+      "french": "Porygon-Z"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 80,
+      "Defense": 70,
+      "Sp. Attack": 135,
+      "Sp. Defense": 75,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 475,
+    "name": {
+      "english": "Gallade",
+      "japanese": "エルレイド",
+      "chinese": "艾路雷朵",
+      "french": "Gallame"
+    },
+    "type": [
+      "Psychic",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 68,
+      "Attack": 125,
+      "Defense": 65,
+      "Sp. Attack": 65,
+      "Sp. Defense": 115,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 476,
+    "name": {
+      "english": "Probopass",
+      "japanese": "ダイノーズ",
+      "chinese": "大朝北鼻",
+      "french": "Tarinorme"
+    },
+    "type": [
+      "Rock",
+      "Steel"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 55,
+      "Defense": 145,
+      "Sp. Attack": 75,
+      "Sp. Defense": 150,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 477,
+    "name": {
+      "english": "Dusknoir",
+      "japanese": "ヨノワール",
+      "chinese": "黑夜魔灵",
+      "french": "Noctunoir"
+    },
+    "type": [
+      "Ghost"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 100,
+      "Defense": 135,
+      "Sp. Attack": 65,
+      "Sp. Defense": 135,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 478,
+    "name": {
+      "english": "Froslass",
+      "japanese": "ユキメノコ",
+      "chinese": "雪妖女",
+      "french": "Momartik"
+    },
+    "type": [
+      "Ice",
+      "Ghost"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 80,
+      "Defense": 70,
+      "Sp. Attack": 80,
+      "Sp. Defense": 70,
+      "Speed": 110
+    }
+  },
+  {
+    "id": 479,
+    "name": {
+      "english": "Rotom",
+      "japanese": "ロトム",
+      "chinese": "洛托姆",
+      "french": "Motisma"
+    },
+    "type": [
+      "Electric",
+      "Ghost"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 50,
+      "Defense": 77,
+      "Sp. Attack": 95,
+      "Sp. Defense": 77,
+      "Speed": 91
+    }
+  },
+  {
+    "id": 480,
+    "name": {
+      "english": "Uxie",
+      "japanese": "ユクシー",
+      "chinese": "由克希",
+      "french": "Créhelf"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 75,
+      "Defense": 130,
+      "Sp. Attack": 75,
+      "Sp. Defense": 130,
+      "Speed": 95
+    }
+  }
+]

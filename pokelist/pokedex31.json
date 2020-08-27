@@ -1,0 +1,406 @@
+[
+  {
+    "id": 601,
+    "name": {
+      "english": "Klinklang",
+      "japanese": "ギギギアル",
+      "chinese": "齿轮怪",
+      "french": "Cliticlic"
+    },
+    "type": [
+      "Steel"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 100,
+      "Defense": 115,
+      "Sp. Attack": 70,
+      "Sp. Defense": 85,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 602,
+    "name": {
+      "english": "Tynamo",
+      "japanese": "シビシラス",
+      "chinese": "麻麻小鱼",
+      "french": "Anchwatt"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 40,
+      "Sp. Attack": 45,
+      "Sp. Defense": 40,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 603,
+    "name": {
+      "english": "Eelektrik",
+      "japanese": "シビビール",
+      "chinese": "麻麻鳗",
+      "french": "Lampéroie"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 85,
+      "Defense": 70,
+      "Sp. Attack": 75,
+      "Sp. Defense": 70,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 604,
+    "name": {
+      "english": "Eelektross",
+      "japanese": "シビルドン",
+      "chinese": "麻麻鳗鱼王",
+      "french": "Ohmassacre"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 115,
+      "Defense": 80,
+      "Sp. Attack": 105,
+      "Sp. Defense": 80,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 605,
+    "name": {
+      "english": "Elgyem",
+      "japanese": "リグレー",
+      "chinese": "小灰怪",
+      "french": "Lewsor"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 55,
+      "Defense": 55,
+      "Sp. Attack": 85,
+      "Sp. Defense": 55,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 606,
+    "name": {
+      "english": "Beheeyem",
+      "japanese": "オーベム",
+      "chinese": "大宇怪",
+      "french": "Neitram"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 75,
+      "Defense": 75,
+      "Sp. Attack": 125,
+      "Sp. Defense": 95,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 607,
+    "name": {
+      "english": "Litwick",
+      "japanese": "ヒトモシ",
+      "chinese": "烛光灵",
+      "french": "Funécire"
+    },
+    "type": [
+      "Ghost",
+      "Fire"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 30,
+      "Defense": 55,
+      "Sp. Attack": 65,
+      "Sp. Defense": 55,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 608,
+    "name": {
+      "english": "Lampent",
+      "japanese": "ランプラー",
+      "chinese": "灯火幽灵",
+      "french": "Mélancolux"
+    },
+    "type": [
+      "Ghost",
+      "Fire"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 40,
+      "Defense": 60,
+      "Sp. Attack": 95,
+      "Sp. Defense": 60,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 609,
+    "name": {
+      "english": "Chandelure",
+      "japanese": "シャンデラ",
+      "chinese": "水晶灯火灵",
+      "french": "Lugulabre"
+    },
+    "type": [
+      "Ghost",
+      "Fire"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 55,
+      "Defense": 90,
+      "Sp. Attack": 145,
+      "Sp. Defense": 90,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 610,
+    "name": {
+      "english": "Axew",
+      "japanese": "キバゴ",
+      "chinese": "牙牙",
+      "french": "Coupenotte"
+    },
+    "type": [
+      "Dragon"
+    ],
+    "base": {
+      "HP": 46,
+      "Attack": 87,
+      "Defense": 60,
+      "Sp. Attack": 30,
+      "Sp. Defense": 40,
+      "Speed": 57
+    }
+  },
+  {
+    "id": 611,
+    "name": {
+      "english": "Fraxure",
+      "japanese": "オノンド",
+      "chinese": "斧牙龙",
+      "french": "Incisache"
+    },
+    "type": [
+      "Dragon"
+    ],
+    "base": {
+      "HP": 66,
+      "Attack": 117,
+      "Defense": 70,
+      "Sp. Attack": 40,
+      "Sp. Defense": 50,
+      "Speed": 67
+    }
+  },
+  {
+    "id": 612,
+    "name": {
+      "english": "Haxorus",
+      "japanese": "オノノクス",
+      "chinese": "双斧战龙",
+      "french": "Tranchodon"
+    },
+    "type": [
+      "Dragon"
+    ],
+    "base": {
+      "HP": 76,
+      "Attack": 147,
+      "Defense": 90,
+      "Sp. Attack": 60,
+      "Sp. Defense": 70,
+      "Speed": 97
+    }
+  },
+  {
+    "id": 613,
+    "name": {
+      "english": "Cubchoo",
+      "japanese": "クマシュン",
+      "chinese": "喷嚏熊",
+      "french": "Polarhume"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 70,
+      "Defense": 40,
+      "Sp. Attack": 60,
+      "Sp. Defense": 40,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 614,
+    "name": {
+      "english": "Beartic",
+      "japanese": "ツンベアー",
+      "chinese": "冻原熊",
+      "french": "Polagriffe"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 95,
+      "Attack": 130,
+      "Defense": 80,
+      "Sp. Attack": 70,
+      "Sp. Defense": 80,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 615,
+    "name": {
+      "english": "Cryogonal",
+      "japanese": "フリージオ",
+      "chinese": "几何雪花",
+      "french": "Hexagel"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 50,
+      "Defense": 50,
+      "Sp. Attack": 95,
+      "Sp. Defense": 135,
+      "Speed": 105
+    }
+  },
+  {
+    "id": 616,
+    "name": {
+      "english": "Shelmet",
+      "japanese": "チョボマキ",
+      "chinese": "小嘴蜗",
+      "french": "Escargaume"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 40,
+      "Defense": 85,
+      "Sp. Attack": 40,
+      "Sp. Defense": 65,
+      "Speed": 25
+    }
+  },
+  {
+    "id": 617,
+    "name": {
+      "english": "Accelgor",
+      "japanese": "アギルダー",
+      "chinese": "敏捷虫",
+      "french": "Limaspeed"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 70,
+      "Defense": 40,
+      "Sp. Attack": 100,
+      "Sp. Defense": 60,
+      "Speed": 145
+    }
+  },
+  {
+    "id": 618,
+    "name": {
+      "english": "Stunfisk",
+      "japanese": "マッギョ",
+      "chinese": "泥巴鱼",
+      "french": "Limonde"
+    },
+    "type": [
+      "Ground",
+      "Electric"
+    ],
+    "base": {
+      "HP": 109,
+      "Attack": 66,
+      "Defense": 84,
+      "Sp. Attack": 81,
+      "Sp. Defense": 99,
+      "Speed": 32
+    }
+  },
+  {
+    "id": 619,
+    "name": {
+      "english": "Mienfoo",
+      "japanese": "コジョフー",
+      "chinese": "功夫鼬",
+      "french": "Kungfouine"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 85,
+      "Defense": 50,
+      "Sp. Attack": 55,
+      "Sp. Defense": 50,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 620,
+    "name": {
+      "english": "Mienshao",
+      "japanese": "コジョンド",
+      "chinese": "师父鼬",
+      "french": "Shaofouine"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 125,
+      "Defense": 60,
+      "Sp. Attack": 95,
+      "Sp. Defense": 60,
+      "Speed": 105
+    }
+  }
+]

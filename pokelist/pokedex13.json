@@ -1,0 +1,414 @@
+[
+  {
+    "id": 261,
+    "name": {
+      "english": "Poochyena",
+      "japanese": "ポチエナ",
+      "chinese": "土狼犬",
+      "french": "Medhyèna"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 35,
+      "Sp. Attack": 30,
+      "Sp. Defense": 30,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 262,
+    "name": {
+      "english": "Mightyena",
+      "japanese": "グラエナ",
+      "chinese": "大狼犬",
+      "french": "Grahyèna"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 90,
+      "Defense": 70,
+      "Sp. Attack": 60,
+      "Sp. Defense": 60,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 263,
+    "name": {
+      "english": "Zigzagoon",
+      "japanese": "ジグザグマ",
+      "chinese": "蛇纹熊",
+      "french": "Zigzaton"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 38,
+      "Attack": 30,
+      "Defense": 41,
+      "Sp. Attack": 30,
+      "Sp. Defense": 41,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 264,
+    "name": {
+      "english": "Linoone",
+      "japanese": "マッスグマ",
+      "chinese": "直冲熊",
+      "french": "Linéon"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 78,
+      "Attack": 70,
+      "Defense": 61,
+      "Sp. Attack": 50,
+      "Sp. Defense": 61,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 265,
+    "name": {
+      "english": "Wurmple",
+      "japanese": "ケムッソ",
+      "chinese": "刺尾虫",
+      "french": "Chenipotte"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 45,
+      "Defense": 35,
+      "Sp. Attack": 20,
+      "Sp. Defense": 30,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 266,
+    "name": {
+      "english": "Silcoon",
+      "japanese": "カラサリス",
+      "chinese": "甲壳茧",
+      "french": "Armulys"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 35,
+      "Defense": 55,
+      "Sp. Attack": 25,
+      "Sp. Defense": 25,
+      "Speed": 15
+    }
+  },
+  {
+    "id": 267,
+    "name": {
+      "english": "Beautifly",
+      "japanese": "アゲハント",
+      "chinese": "狩猎凤蝶",
+      "french": "Charmillon"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 70,
+      "Defense": 50,
+      "Sp. Attack": 100,
+      "Sp. Defense": 50,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 268,
+    "name": {
+      "english": "Cascoon",
+      "japanese": "マユルド",
+      "chinese": "盾甲茧",
+      "french": "Blindalys"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 35,
+      "Defense": 55,
+      "Sp. Attack": 25,
+      "Sp. Defense": 25,
+      "Speed": 15
+    }
+  },
+  {
+    "id": 269,
+    "name": {
+      "english": "Dustox",
+      "japanese": "ドクケイル",
+      "chinese": "毒粉蛾",
+      "french": "Papinox"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 50,
+      "Defense": 70,
+      "Sp. Attack": 50,
+      "Sp. Defense": 90,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 270,
+    "name": {
+      "english": "Lotad",
+      "japanese": "ハスボー",
+      "chinese": "莲叶童子",
+      "french": "Nénupiot"
+    },
+    "type": [
+      "Water",
+      "Grass"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 30,
+      "Defense": 30,
+      "Sp. Attack": 40,
+      "Sp. Defense": 50,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 271,
+    "name": {
+      "english": "Lombre",
+      "japanese": "ハスブレロ",
+      "chinese": "莲帽小童",
+      "french": "Lombre"
+    },
+    "type": [
+      "Water",
+      "Grass"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 50,
+      "Defense": 50,
+      "Sp. Attack": 60,
+      "Sp. Defense": 70,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 272,
+    "name": {
+      "english": "Ludicolo",
+      "japanese": "ルンパッパ",
+      "chinese": "乐天河童",
+      "french": "Ludicolo"
+    },
+    "type": [
+      "Water",
+      "Grass"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 70,
+      "Defense": 70,
+      "Sp. Attack": 90,
+      "Sp. Defense": 100,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 273,
+    "name": {
+      "english": "Seedot",
+      "japanese": "タネボー",
+      "chinese": "橡实果",
+      "french": "Grainipiot"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 40,
+      "Defense": 50,
+      "Sp. Attack": 30,
+      "Sp. Defense": 30,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 274,
+    "name": {
+      "english": "Nuzleaf",
+      "japanese": "コノハナ",
+      "chinese": "长鼻叶",
+      "french": "Pifeuil"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 70,
+      "Defense": 40,
+      "Sp. Attack": 60,
+      "Sp. Defense": 40,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 275,
+    "name": {
+      "english": "Shiftry",
+      "japanese": "ダーテング",
+      "chinese": "狡猾天狗",
+      "french": "Tengalice"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 100,
+      "Defense": 60,
+      "Sp. Attack": 90,
+      "Sp. Defense": 60,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 276,
+    "name": {
+      "english": "Taillow",
+      "japanese": "スバメ",
+      "chinese": "傲骨燕",
+      "french": "Nirondelle"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 55,
+      "Defense": 30,
+      "Sp. Attack": 30,
+      "Sp. Defense": 30,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 277,
+    "name": {
+      "english": "Swellow",
+      "japanese": "オオスバメ",
+      "chinese": "大王燕",
+      "french": "Hélédelle"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 85,
+      "Defense": 60,
+      "Sp. Attack": 75,
+      "Sp. Defense": 50,
+      "Speed": 125
+    }
+  },
+  {
+    "id": 278,
+    "name": {
+      "english": "Wingull",
+      "japanese": "キャモメ",
+      "chinese": "长翅鸥",
+      "french": "Goélise"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 30,
+      "Defense": 30,
+      "Sp. Attack": 55,
+      "Sp. Defense": 30,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 279,
+    "name": {
+      "english": "Pelipper",
+      "japanese": "ペリッパー",
+      "chinese": "大嘴鸥",
+      "french": "Bekipan"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 50,
+      "Defense": 100,
+      "Sp. Attack": 95,
+      "Sp. Defense": 70,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 280,
+    "name": {
+      "english": "Ralts",
+      "japanese": "ラルトス",
+      "chinese": "拉鲁拉丝",
+      "french": "Tarsal"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 28,
+      "Attack": 25,
+      "Defense": 25,
+      "Sp. Attack": 45,
+      "Sp. Defense": 35,
+      "Speed": 40
+    }
+  }
+]

@@ -1,0 +1,415 @@
+[
+  {
+    "id": 161,
+    "name": {
+      "english": "Sentret",
+      "japanese": "オタチ",
+      "chinese": "尾立",
+      "french": "Fouinette"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 46,
+      "Defense": 34,
+      "Sp. Attack": 35,
+      "Sp. Defense": 45,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 162,
+    "name": {
+      "english": "Furret",
+      "japanese": "オオタチ",
+      "chinese": "大尾立",
+      "french": "Fouinar"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 76,
+      "Defense": 64,
+      "Sp. Attack": 45,
+      "Sp. Defense": 55,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 163,
+    "name": {
+      "english": "Hoothoot",
+      "japanese": "ホーホー",
+      "chinese": "咕咕",
+      "french": "Hoothoot"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 30,
+      "Defense": 30,
+      "Sp. Attack": 36,
+      "Sp. Defense": 56,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 164,
+    "name": {
+      "english": "Noctowl",
+      "japanese": "ヨルノズク",
+      "chinese": "猫头夜鹰",
+      "french": "Noarfang"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 50,
+      "Defense": 50,
+      "Sp. Attack": 86,
+      "Sp. Defense": 96,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 165,
+    "name": {
+      "english": "Ledyba",
+      "japanese": "レディバ",
+      "chinese": "芭瓢虫",
+      "french": "Coxy"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 20,
+      "Defense": 30,
+      "Sp. Attack": 40,
+      "Sp. Defense": 80,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 166,
+    "name": {
+      "english": "Ledian",
+      "japanese": "レディアン",
+      "chinese": "安瓢虫",
+      "french": "Coxyclaque"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 35,
+      "Defense": 50,
+      "Sp. Attack": 55,
+      "Sp. Defense": 110,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 167,
+    "name": {
+      "english": "Spinarak",
+      "japanese": "イトマル",
+      "chinese": "圆丝蛛",
+      "french": "Mimigal"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 60,
+      "Defense": 40,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 168,
+    "name": {
+      "english": "Ariados",
+      "japanese": "アリアドス",
+      "chinese": "阿利多斯",
+      "french": "Migalos"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 90,
+      "Defense": 70,
+      "Sp. Attack": 60,
+      "Sp. Defense": 70,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 169,
+    "name": {
+      "english": "Crobat",
+      "japanese": "クロバット",
+      "chinese": "叉字蝠",
+      "french": "Nostenfer"
+    },
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 90,
+      "Defense": 80,
+      "Sp. Attack": 70,
+      "Sp. Defense": 80,
+      "Speed": 130
+    }
+  },
+  {
+    "id": 170,
+    "name": {
+      "english": "Chinchou",
+      "japanese": "チョンチー",
+      "chinese": "灯笼鱼",
+      "french": "Loupio"
+    },
+    "type": [
+      "Water",
+      "Electric"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 38,
+      "Defense": 38,
+      "Sp. Attack": 56,
+      "Sp. Defense": 56,
+      "Speed": 67
+    }
+  },
+  {
+    "id": 171,
+    "name": {
+      "english": "Lanturn",
+      "japanese": "ランターン",
+      "chinese": "电灯怪",
+      "french": "Lanturn"
+    },
+    "type": [
+      "Water",
+      "Electric"
+    ],
+    "base": {
+      "HP": 125,
+      "Attack": 58,
+      "Defense": 58,
+      "Sp. Attack": 76,
+      "Sp. Defense": 76,
+      "Speed": 67
+    }
+  },
+  {
+    "id": 172,
+    "name": {
+      "english": "Pichu",
+      "japanese": "ピチュー",
+      "chinese": "皮丘",
+      "french": "Pichu"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 20,
+      "Attack": 40,
+      "Defense": 15,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 173,
+    "name": {
+      "english": "Cleffa",
+      "japanese": "ピィ",
+      "chinese": "皮宝宝",
+      "french": "Mélo"
+    },
+    "type": [
+      "Fairy"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 25,
+      "Defense": 28,
+      "Sp. Attack": 45,
+      "Sp. Defense": 55,
+      "Speed": 15
+    }
+  },
+  {
+    "id": 174,
+    "name": {
+      "english": "Igglybuff",
+      "japanese": "ププリン",
+      "chinese": "宝宝丁",
+      "french": "Toudoudou"
+    },
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 30,
+      "Defense": 15,
+      "Sp. Attack": 40,
+      "Sp. Defense": 20,
+      "Speed": 15
+    }
+  },
+  {
+    "id": 175,
+    "name": {
+      "english": "Togepi",
+      "japanese": "トゲピー",
+      "chinese": "波克比",
+      "french": "Togepi"
+    },
+    "type": [
+      "Fairy"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 20,
+      "Defense": 65,
+      "Sp. Attack": 40,
+      "Sp. Defense": 65,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 176,
+    "name": {
+      "english": "Togetic",
+      "japanese": "トゲチック",
+      "chinese": "波克基古",
+      "french": "Togetic"
+    },
+    "type": [
+      "Fairy",
+      "Flying"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 40,
+      "Defense": 85,
+      "Sp. Attack": 80,
+      "Sp. Defense": 105,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 177,
+    "name": {
+      "english": "Natu",
+      "japanese": "ネイティ",
+      "chinese": "天然雀",
+      "french": "Natu"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 50,
+      "Defense": 45,
+      "Sp. Attack": 70,
+      "Sp. Defense": 45,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 178,
+    "name": {
+      "english": "Xatu",
+      "japanese": "ネイティオ",
+      "chinese": "天然鸟",
+      "french": "Xatu"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 75,
+      "Defense": 70,
+      "Sp. Attack": 95,
+      "Sp. Defense": 70,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 179,
+    "name": {
+      "english": "Mareep",
+      "japanese": "メリープ",
+      "chinese": "咩利羊",
+      "french": "Wattouat"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 40,
+      "Defense": 40,
+      "Sp. Attack": 65,
+      "Sp. Defense": 45,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 180,
+    "name": {
+      "english": "Flaaffy",
+      "japanese": "モココ",
+      "chinese": "茸茸羊",
+      "french": "Lainergie"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 55,
+      "Defense": 55,
+      "Sp. Attack": 80,
+      "Sp. Defense": 60,
+      "Speed": 45
+    }
+  }
+]

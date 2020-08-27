@@ -1,0 +1,409 @@
+[
+  {
+    "id": 481,
+    "name": {
+      "english": "Mesprit",
+      "japanese": "エムリット",
+      "chinese": "艾姆利多",
+      "french": "Créfollet"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 105,
+      "Defense": 105,
+      "Sp. Attack": 105,
+      "Sp. Defense": 105,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 482,
+    "name": {
+      "english": "Azelf",
+      "japanese": "アグノム",
+      "chinese": "亚克诺姆",
+      "french": "Créfadet"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 125,
+      "Defense": 70,
+      "Sp. Attack": 125,
+      "Sp. Defense": 70,
+      "Speed": 115
+    }
+  },
+  {
+    "id": 483,
+    "name": {
+      "english": "Dialga",
+      "japanese": "ディアルガ",
+      "chinese": "帝牙卢卡",
+      "french": "Dialga"
+    },
+    "type": [
+      "Steel",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 120,
+      "Defense": 120,
+      "Sp. Attack": 150,
+      "Sp. Defense": 100,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 484,
+    "name": {
+      "english": "Palkia",
+      "japanese": "パルキア",
+      "chinese": "帕路奇亚",
+      "french": "Palkia"
+    },
+    "type": [
+      "Water",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 120,
+      "Defense": 100,
+      "Sp. Attack": 150,
+      "Sp. Defense": 120,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 485,
+    "name": {
+      "english": "Heatran",
+      "japanese": "ヒードラン",
+      "chinese": "席多蓝恩",
+      "french": "Heatran"
+    },
+    "type": [
+      "Fire",
+      "Steel"
+    ],
+    "base": {
+      "HP": 91,
+      "Attack": 90,
+      "Defense": 106,
+      "Sp. Attack": 130,
+      "Sp. Defense": 106,
+      "Speed": 77
+    }
+  },
+  {
+    "id": 486,
+    "name": {
+      "english": "Regigigas",
+      "japanese": "レジギガス",
+      "chinese": "雷吉奇卡斯",
+      "french": "Regigigas"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 110,
+      "Attack": 160,
+      "Defense": 110,
+      "Sp. Attack": 80,
+      "Sp. Defense": 110,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 487,
+    "name": {
+      "english": "Giratina",
+      "japanese": "ギラティナ",
+      "chinese": "骑拉帝纳",
+      "french": "Giratina"
+    },
+    "type": [
+      "Ghost",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 150,
+      "Attack": 100,
+      "Defense": 120,
+      "Sp. Attack": 100,
+      "Sp. Defense": 120,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 488,
+    "name": {
+      "english": "Cresselia",
+      "japanese": "クレセリア",
+      "chinese": "克雷色利亚",
+      "french": "Cresselia"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 120,
+      "Attack": 70,
+      "Defense": 120,
+      "Sp. Attack": 75,
+      "Sp. Defense": 130,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 489,
+    "name": {
+      "english": "Phione",
+      "japanese": "フィオネ",
+      "chinese": "霏欧纳",
+      "french": "Phione"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 80,
+      "Defense": 80,
+      "Sp. Attack": 80,
+      "Sp. Defense": 80,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 490,
+    "name": {
+      "english": "Manaphy",
+      "japanese": "マナフィ",
+      "chinese": "玛纳霏",
+      "french": "Manaphy"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 491,
+    "name": {
+      "english": "Darkrai",
+      "japanese": "ダークライ",
+      "chinese": "达克莱伊",
+      "french": "Darkrai"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 90,
+      "Defense": 90,
+      "Sp. Attack": 135,
+      "Sp. Defense": 90,
+      "Speed": 125
+    }
+  },
+  {
+    "id": 492,
+    "name": {
+      "english": "Shaymin",
+      "japanese": "シェイミ",
+      "chinese": "谢米",
+      "french": "Shaymin"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 493,
+    "name": {
+      "english": "Arceus",
+      "japanese": "アルセウス",
+      "chinese": "阿尔宙斯",
+      "french": "Arceus"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 120,
+      "Attack": 120,
+      "Defense": 120,
+      "Sp. Attack": 120,
+      "Sp. Defense": 120,
+      "Speed": 120
+    }
+  },
+  {
+    "id": 494,
+    "name": {
+      "english": "Victini",
+      "japanese": "ビクティニ",
+      "chinese": "比克提尼",
+      "french": "Victini"
+    },
+    "type": [
+      "Psychic",
+      "Fire"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 495,
+    "name": {
+      "english": "Snivy",
+      "japanese": "ツタージャ",
+      "chinese": "藤藤蛇",
+      "french": "Vipélierre"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 45,
+      "Defense": 55,
+      "Sp. Attack": 45,
+      "Sp. Defense": 55,
+      "Speed": 63
+    }
+  },
+  {
+    "id": 496,
+    "name": {
+      "english": "Servine",
+      "japanese": "ジャノビー",
+      "chinese": "青藤蛇",
+      "french": "Lianaja"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 60,
+      "Defense": 75,
+      "Sp. Attack": 60,
+      "Sp. Defense": 75,
+      "Speed": 83
+    }
+  },
+  {
+    "id": 497,
+    "name": {
+      "english": "Serperior",
+      "japanese": "ジャローダ",
+      "chinese": "君主蛇",
+      "french": "Majaspic"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 75,
+      "Defense": 95,
+      "Sp. Attack": 75,
+      "Sp. Defense": 95,
+      "Speed": 113
+    }
+  },
+  {
+    "id": 498,
+    "name": {
+      "english": "Tepig",
+      "japanese": "ポカブ",
+      "chinese": "暖暖猪",
+      "french": "Gruikui"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 63,
+      "Defense": 45,
+      "Sp. Attack": 45,
+      "Sp. Defense": 45,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 499,
+    "name": {
+      "english": "Pignite",
+      "japanese": "チャオブー",
+      "chinese": "炒炒猪",
+      "french": "Grotichon"
+    },
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 93,
+      "Defense": 55,
+      "Sp. Attack": 70,
+      "Sp. Defense": 55,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 500,
+    "name": {
+      "english": "Emboar",
+      "japanese": "エンブオー",
+      "chinese": "炎武王",
+      "french": "Roitiflam"
+    },
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 110,
+      "Attack": 123,
+      "Defense": 65,
+      "Sp. Attack": 100,
+      "Sp. Defense": 65,
+      "Speed": 65
+    }
+  }
+]

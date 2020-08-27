@@ -1,0 +1,413 @@
+[
+  {
+    "id": 321,
+    "name": {
+      "english": "Wailord",
+      "japanese": "ホエルオー",
+      "chinese": "吼鲸王",
+      "french": "Wailord"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 170,
+      "Attack": 90,
+      "Defense": 45,
+      "Sp. Attack": 90,
+      "Sp. Defense": 45,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 322,
+    "name": {
+      "english": "Numel",
+      "japanese": "ドンメル",
+      "chinese": "呆火驼",
+      "french": "Chamallot"
+    },
+    "type": [
+      "Fire",
+      "Ground"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 60,
+      "Defense": 40,
+      "Sp. Attack": 65,
+      "Sp. Defense": 45,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 323,
+    "name": {
+      "english": "Camerupt",
+      "japanese": "バクーダ",
+      "chinese": "喷火驼",
+      "french": "Camérupt"
+    },
+    "type": [
+      "Fire",
+      "Ground"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 100,
+      "Defense": 70,
+      "Sp. Attack": 105,
+      "Sp. Defense": 75,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 324,
+    "name": {
+      "english": "Torkoal",
+      "japanese": "コータス",
+      "chinese": "煤炭龟",
+      "french": "Chartor"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 140,
+      "Sp. Attack": 85,
+      "Sp. Defense": 70,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 325,
+    "name": {
+      "english": "Spoink",
+      "japanese": "バネブー",
+      "chinese": "跳跳猪",
+      "french": "Spoink"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 25,
+      "Defense": 35,
+      "Sp. Attack": 70,
+      "Sp. Defense": 80,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 326,
+    "name": {
+      "english": "Grumpig",
+      "japanese": "ブーピッグ",
+      "chinese": "噗噗猪",
+      "french": "Groret"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 45,
+      "Defense": 65,
+      "Sp. Attack": 90,
+      "Sp. Defense": 110,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 327,
+    "name": {
+      "english": "Spinda",
+      "japanese": "パッチール",
+      "chinese": "晃晃斑",
+      "french": "Spinda"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 60,
+      "Defense": 60,
+      "Sp. Attack": 60,
+      "Sp. Defense": 60,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 328,
+    "name": {
+      "english": "Trapinch",
+      "japanese": "ナックラー",
+      "chinese": "大颚蚁",
+      "french": "Kraknoix"
+    },
+    "type": [
+      "Ground"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 100,
+      "Defense": 45,
+      "Sp. Attack": 45,
+      "Sp. Defense": 45,
+      "Speed": 10
+    }
+  },
+  {
+    "id": 329,
+    "name": {
+      "english": "Vibrava",
+      "japanese": "ビブラーバ",
+      "chinese": "超音波幼虫",
+      "french": "Vibraninf"
+    },
+    "type": [
+      "Ground",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 70,
+      "Defense": 50,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 330,
+    "name": {
+      "english": "Flygon",
+      "japanese": "フライゴン",
+      "chinese": "沙漠蜻蜓",
+      "french": "Libégon"
+    },
+    "type": [
+      "Ground",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 100,
+      "Defense": 80,
+      "Sp. Attack": 80,
+      "Sp. Defense": 80,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 331,
+    "name": {
+      "english": "Cacnea",
+      "japanese": "サボネア",
+      "chinese": "刺球仙人掌",
+      "french": "Cacnea"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 85,
+      "Defense": 40,
+      "Sp. Attack": 85,
+      "Sp. Defense": 40,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 332,
+    "name": {
+      "english": "Cacturne",
+      "japanese": "ノクタス",
+      "chinese": "梦歌仙人掌",
+      "french": "Cacturne"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 115,
+      "Defense": 60,
+      "Sp. Attack": 115,
+      "Sp. Defense": 60,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 333,
+    "name": {
+      "english": "Swablu",
+      "japanese": "チルット",
+      "chinese": "青绵鸟",
+      "french": "Tylton"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 40,
+      "Defense": 60,
+      "Sp. Attack": 40,
+      "Sp. Defense": 75,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 334,
+    "name": {
+      "english": "Altaria",
+      "japanese": "チルタリス",
+      "chinese": "七夕青鸟",
+      "french": "Altaria"
+    },
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 70,
+      "Defense": 90,
+      "Sp. Attack": 70,
+      "Sp. Defense": 105,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 335,
+    "name": {
+      "english": "Zangoose",
+      "japanese": "ザングース",
+      "chinese": "猫鼬斩",
+      "french": "Mangriff"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 73,
+      "Attack": 115,
+      "Defense": 60,
+      "Sp. Attack": 60,
+      "Sp. Defense": 60,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 336,
+    "name": {
+      "english": "Seviper",
+      "japanese": "ハブネーク",
+      "chinese": "饭匙蛇",
+      "french": "Séviper"
+    },
+    "type": [
+      "Poison"
+    ],
+    "base": {
+      "HP": 73,
+      "Attack": 100,
+      "Defense": 60,
+      "Sp. Attack": 100,
+      "Sp. Defense": 60,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 337,
+    "name": {
+      "english": "Lunatone",
+      "japanese": "ルナトーン",
+      "chinese": "月石",
+      "french": "Séléroc"
+    },
+    "type": [
+      "Rock",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 55,
+      "Defense": 65,
+      "Sp. Attack": 95,
+      "Sp. Defense": 85,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 338,
+    "name": {
+      "english": "Solrock",
+      "japanese": "ソルロック",
+      "chinese": "太阳岩",
+      "french": "Solaroc"
+    },
+    "type": [
+      "Rock",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 95,
+      "Defense": 85,
+      "Sp. Attack": 55,
+      "Sp. Defense": 65,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 339,
+    "name": {
+      "english": "Barboach",
+      "japanese": "ドジョッチ",
+      "chinese": "泥泥鳅",
+      "french": "Barloche"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 48,
+      "Defense": 43,
+      "Sp. Attack": 46,
+      "Sp. Defense": 41,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 340,
+    "name": {
+      "english": "Whiscash",
+      "japanese": "ナマズン",
+      "chinese": "鲶鱼王",
+      "french": "Barbicha"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "base": {
+      "HP": 110,
+      "Attack": 78,
+      "Defense": 73,
+      "Sp. Attack": 76,
+      "Sp. Defense": 71,
+      "Speed": 60
+    }
+  }
+]

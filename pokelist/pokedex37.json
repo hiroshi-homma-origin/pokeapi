@@ -1,0 +1,414 @@
+[
+  {
+    "id": 721,
+    "name": {
+      "english": "Volcanion",
+      "japanese": "ボルケニオン",
+      "chinese": "波尔凯尼恩",
+      "french": "Volcanion"
+    },
+    "type": [
+      "Fire",
+      "Water"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 110,
+      "Defense": 120,
+      "Sp. Attack": 130,
+      "Sp. Defense": 90,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 722,
+    "name": {
+      "english": "Rowlet",
+      "japanese": "モクロー",
+      "chinese": "木木枭",
+      "french": "Brindibou"
+    },
+    "type": [
+      "Grass",
+      "Flying"
+    ],
+    "base": {
+      "HP": 68,
+      "Attack": 55,
+      "Defense": 55,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 42
+    }
+  },
+  {
+    "id": 723,
+    "name": {
+      "english": "Dartrix",
+      "japanese": "フクスロー",
+      "chinese": "投羽枭",
+      "french": "Efflèche"
+    },
+    "type": [
+      "Grass",
+      "Flying"
+    ],
+    "base": {
+      "HP": 78,
+      "Attack": 75,
+      "Defense": 75,
+      "Sp. Attack": 70,
+      "Sp. Defense": 70,
+      "Speed": 52
+    }
+  },
+  {
+    "id": 724,
+    "name": {
+      "english": "Decidueye",
+      "japanese": "ジュナイパー",
+      "chinese": "狙射树枭",
+      "french": "Archéduc"
+    },
+    "type": [
+      "Grass",
+      "Ghost"
+    ],
+    "base": {
+      "HP": 78,
+      "Attack": 107,
+      "Defense": 75,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 725,
+    "name": {
+      "english": "Litten",
+      "japanese": "ニャビー",
+      "chinese": "火斑喵",
+      "french": "Flamiaou"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 65,
+      "Defense": 40,
+      "Sp. Attack": 60,
+      "Sp. Defense": 40,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 726,
+    "name": {
+      "english": "Torracat",
+      "japanese": "ニャヒート",
+      "chinese": "炎热喵",
+      "french": "Matoufeu"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 85,
+      "Defense": 50,
+      "Sp. Attack": 80,
+      "Sp. Defense": 50,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 727,
+    "name": {
+      "english": "Incineroar",
+      "japanese": "ガオガエン",
+      "chinese": "炽焰咆哮虎",
+      "french": "Félinferno"
+    },
+    "type": [
+      "Fire",
+      "Dark"
+    ],
+    "base": {
+      "HP": 95,
+      "Attack": 115,
+      "Defense": 90,
+      "Sp. Attack": 80,
+      "Sp. Defense": 90,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 728,
+    "name": {
+      "english": "Popplio",
+      "japanese": "アシマリ",
+      "chinese": "球球海狮",
+      "french": "Otaquin"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 54,
+      "Defense": 54,
+      "Sp. Attack": 66,
+      "Sp. Defense": 56,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 729,
+    "name": {
+      "english": "Brionne",
+      "japanese": "オシャマリ",
+      "chinese": "花漾海狮",
+      "french": "Otarlette"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 69,
+      "Defense": 69,
+      "Sp. Attack": 91,
+      "Sp. Defense": 81,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 730,
+    "name": {
+      "english": "Primarina",
+      "japanese": "アシレーヌ",
+      "chinese": "西狮海壬",
+      "french": "Oratoria"
+    },
+    "type": [
+      "Water",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 74,
+      "Defense": 74,
+      "Sp. Attack": 126,
+      "Sp. Defense": 116,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 731,
+    "name": {
+      "english": "Pikipek",
+      "japanese": "ツツケラ",
+      "chinese": "小笃儿",
+      "french": "Picassaut"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 75,
+      "Defense": 30,
+      "Sp. Attack": 30,
+      "Sp. Defense": 30,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 732,
+    "name": {
+      "english": "Trumbeak",
+      "japanese": "ケララッパ",
+      "chinese": "喇叭啄鸟",
+      "french": "Piclairon"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 85,
+      "Defense": 50,
+      "Sp. Attack": 40,
+      "Sp. Defense": 50,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 733,
+    "name": {
+      "english": "Toucannon",
+      "japanese": "ドデカバシ",
+      "chinese": "铳嘴大鸟",
+      "french": "Bazoucan"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 120,
+      "Defense": 75,
+      "Sp. Attack": 75,
+      "Sp. Defense": 75,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 734,
+    "name": {
+      "english": "Yungoos",
+      "japanese": "ヤングース",
+      "chinese": "猫鼬少",
+      "french": "Manglouton"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 48,
+      "Attack": 70,
+      "Defense": 30,
+      "Sp. Attack": 30,
+      "Sp. Defense": 30,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 735,
+    "name": {
+      "english": "Gumshoos",
+      "japanese": "デカグース",
+      "chinese": "猫鼬探长",
+      "french": "Argouste"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 88,
+      "Attack": 110,
+      "Defense": 60,
+      "Sp. Attack": 55,
+      "Sp. Defense": 60,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 736,
+    "name": {
+      "english": "Grubbin",
+      "japanese": "アゴジムシ",
+      "chinese": "强颚鸡母虫",
+      "french": "Larvibule"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 47,
+      "Attack": 62,
+      "Defense": 45,
+      "Sp. Attack": 55,
+      "Sp. Defense": 45,
+      "Speed": 46
+    }
+  },
+  {
+    "id": 737,
+    "name": {
+      "english": "Charjabug",
+      "japanese": "デンヂムシ",
+      "chinese": "虫电宝",
+      "french": "Chrysapile"
+    },
+    "type": [
+      "Bug",
+      "Electric"
+    ],
+    "base": {
+      "HP": 57,
+      "Attack": 82,
+      "Defense": 95,
+      "Sp. Attack": 55,
+      "Sp. Defense": 75,
+      "Speed": 36
+    }
+  },
+  {
+    "id": 738,
+    "name": {
+      "english": "Vikavolt",
+      "japanese": "クワガノン",
+      "chinese": "锹农炮虫",
+      "french": "Lucanon"
+    },
+    "type": [
+      "Bug",
+      "Electric"
+    ],
+    "base": {
+      "HP": 77,
+      "Attack": 70,
+      "Defense": 90,
+      "Sp. Attack": 145,
+      "Sp. Defense": 75,
+      "Speed": 43
+    }
+  },
+  {
+    "id": 739,
+    "name": {
+      "english": "Crabrawler",
+      "japanese": "マケンカニ",
+      "chinese": "好胜蟹",
+      "french": "Crabagarre"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 47,
+      "Attack": 82,
+      "Defense": 57,
+      "Sp. Attack": 42,
+      "Sp. Defense": 47,
+      "Speed": 63
+    }
+  },
+  {
+    "id": 740,
+    "name": {
+      "english": "Crabominable",
+      "japanese": "ケケンカニ",
+      "chinese": "好胜毛蟹",
+      "french": "Crabominable"
+    },
+    "type": [
+      "Fighting",
+      "Ice"
+    ],
+    "base": {
+      "HP": 97,
+      "Attack": 132,
+      "Defense": 77,
+      "Sp. Attack": 62,
+      "Sp. Defense": 67,
+      "Speed": 43
+    }
+  }
+]

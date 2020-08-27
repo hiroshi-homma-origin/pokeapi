@@ -1,0 +1,411 @@
+[
+  {
+    "id": 421,
+    "name": {
+      "english": "Cherrim",
+      "japanese": "チェリム",
+      "chinese": "樱花儿",
+      "french": "Ceriflor"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 60,
+      "Defense": 70,
+      "Sp. Attack": 87,
+      "Sp. Defense": 78,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 422,
+    "name": {
+      "english": "Shellos",
+      "japanese": "カラナクシ",
+      "chinese": "无壳海兔",
+      "french": "Sancoki"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 76,
+      "Attack": 48,
+      "Defense": 48,
+      "Sp. Attack": 57,
+      "Sp. Defense": 62,
+      "Speed": 34
+    }
+  },
+  {
+    "id": 423,
+    "name": {
+      "english": "Gastrodon",
+      "japanese": "トリトドン",
+      "chinese": "海兔兽",
+      "french": "Tritosor"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "base": {
+      "HP": 111,
+      "Attack": 83,
+      "Defense": 68,
+      "Sp. Attack": 92,
+      "Sp. Defense": 82,
+      "Speed": 39
+    }
+  },
+  {
+    "id": 424,
+    "name": {
+      "english": "Ambipom",
+      "japanese": "エテボース",
+      "chinese": "双尾怪手",
+      "french": "Capidextre"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 100,
+      "Defense": 66,
+      "Sp. Attack": 60,
+      "Sp. Defense": 66,
+      "Speed": 115
+    }
+  },
+  {
+    "id": 425,
+    "name": {
+      "english": "Drifloon",
+      "japanese": "フワンテ",
+      "chinese": "飘飘球",
+      "french": "Baudrive"
+    },
+    "type": [
+      "Ghost",
+      "Flying"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 50,
+      "Defense": 34,
+      "Sp. Attack": 60,
+      "Sp. Defense": 44,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 426,
+    "name": {
+      "english": "Drifblim",
+      "japanese": "フワライド",
+      "chinese": "随风球",
+      "french": "Grodrive"
+    },
+    "type": [
+      "Ghost",
+      "Flying"
+    ],
+    "base": {
+      "HP": 150,
+      "Attack": 80,
+      "Defense": 44,
+      "Sp. Attack": 90,
+      "Sp. Defense": 54,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 427,
+    "name": {
+      "english": "Buneary",
+      "japanese": "ミミロル",
+      "chinese": "卷卷耳",
+      "french": "Laporeille"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 66,
+      "Defense": 44,
+      "Sp. Attack": 44,
+      "Sp. Defense": 56,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 428,
+    "name": {
+      "english": "Lopunny",
+      "japanese": "ミミロップ",
+      "chinese": "长耳兔",
+      "french": "Lockpin"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 76,
+      "Defense": 84,
+      "Sp. Attack": 54,
+      "Sp. Defense": 96,
+      "Speed": 105
+    }
+  },
+  {
+    "id": 429,
+    "name": {
+      "english": "Mismagius",
+      "japanese": "ムウマージ",
+      "chinese": "梦妖魔",
+      "french": "Magirêve"
+    },
+    "type": [
+      "Ghost"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 60,
+      "Defense": 60,
+      "Sp. Attack": 105,
+      "Sp. Defense": 105,
+      "Speed": 105
+    }
+  },
+  {
+    "id": 430,
+    "name": {
+      "english": "Honchkrow",
+      "japanese": "ドンカラス",
+      "chinese": "乌鸦头头",
+      "french": "Corboss"
+    },
+    "type": [
+      "Dark",
+      "Flying"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 125,
+      "Defense": 52,
+      "Sp. Attack": 105,
+      "Sp. Defense": 52,
+      "Speed": 71
+    }
+  },
+  {
+    "id": 431,
+    "name": {
+      "english": "Glameow",
+      "japanese": "ニャルマー",
+      "chinese": "魅力喵",
+      "french": "Chaglam"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 49,
+      "Attack": 55,
+      "Defense": 42,
+      "Sp. Attack": 42,
+      "Sp. Defense": 37,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 432,
+    "name": {
+      "english": "Purugly",
+      "japanese": "ブニャット",
+      "chinese": "东施喵",
+      "french": "Chaffreux"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 71,
+      "Attack": 82,
+      "Defense": 64,
+      "Sp. Attack": 64,
+      "Sp. Defense": 59,
+      "Speed": 112
+    }
+  },
+  {
+    "id": 433,
+    "name": {
+      "english": "Chingling",
+      "japanese": "リーシャン",
+      "chinese": "铃铛响",
+      "french": "Korillon"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 30,
+      "Defense": 50,
+      "Sp. Attack": 65,
+      "Sp. Defense": 50,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 434,
+    "name": {
+      "english": "Stunky",
+      "japanese": "スカンプー",
+      "chinese": "臭鼬噗",
+      "french": "Moufouette"
+    },
+    "type": [
+      "Poison",
+      "Dark"
+    ],
+    "base": {
+      "HP": 63,
+      "Attack": 63,
+      "Defense": 47,
+      "Sp. Attack": 41,
+      "Sp. Defense": 41,
+      "Speed": 74
+    }
+  },
+  {
+    "id": 435,
+    "name": {
+      "english": "Skuntank",
+      "japanese": "スカタンク",
+      "chinese": "坦克臭鼬",
+      "french": "Moufflair"
+    },
+    "type": [
+      "Poison",
+      "Dark"
+    ],
+    "base": {
+      "HP": 103,
+      "Attack": 93,
+      "Defense": 67,
+      "Sp. Attack": 71,
+      "Sp. Defense": 61,
+      "Speed": 84
+    }
+  },
+  {
+    "id": 436,
+    "name": {
+      "english": "Bronzor",
+      "japanese": "ドーミラー",
+      "chinese": "铜镜怪",
+      "french": "Archéomire"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 57,
+      "Attack": 24,
+      "Defense": 86,
+      "Sp. Attack": 24,
+      "Sp. Defense": 86,
+      "Speed": 23
+    }
+  },
+  {
+    "id": 437,
+    "name": {
+      "english": "Bronzong",
+      "japanese": "ドータクン",
+      "chinese": "青铜钟",
+      "french": "Archéodong"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 67,
+      "Attack": 89,
+      "Defense": 116,
+      "Sp. Attack": 79,
+      "Sp. Defense": 116,
+      "Speed": 33
+    }
+  },
+  {
+    "id": 438,
+    "name": {
+      "english": "Bonsly",
+      "japanese": "ウソハチ",
+      "chinese": "盆才怪",
+      "french": "Manzaï"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 80,
+      "Defense": 95,
+      "Sp. Attack": 10,
+      "Sp. Defense": 45,
+      "Speed": 10
+    }
+  },
+  {
+    "id": 439,
+    "name": {
+      "english": "Mime Jr.",
+      "japanese": "マネネ",
+      "chinese": "魔尼尼",
+      "french": "Mime Jr"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 20,
+      "Attack": 25,
+      "Defense": 45,
+      "Sp. Attack": 70,
+      "Sp. Defense": 90,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 440,
+    "name": {
+      "english": "Happiny",
+      "japanese": "ピンプク",
+      "chinese": "小福蛋",
+      "french": "Ptiravi"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 5,
+      "Defense": 5,
+      "Sp. Attack": 15,
+      "Sp. Defense": 65,
+      "Speed": 30
+    }
+  }
+]

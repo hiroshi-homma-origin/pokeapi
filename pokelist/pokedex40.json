@@ -1,0 +1,417 @@
+[
+  {
+    "id": 781,
+    "name": {
+      "english": "Dhelmise",
+      "japanese": "ダダリン",
+      "chinese": "破破舵轮",
+      "french": "Bébécaille"
+    },
+    "type": [
+      "Ghost",
+      "Grass"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 131,
+      "Defense": 100,
+      "Sp. Attack": 86,
+      "Sp. Defense": 90,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 782,
+    "name": {
+      "english": "Jangmo-o",
+      "japanese": "ジャラコ",
+      "chinese": "心鳞宝",
+      "french": "Écaïd"
+    },
+    "type": [
+      "Dragon"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 55,
+      "Defense": 65,
+      "Sp. Attack": 45,
+      "Sp. Defense": 45,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 783,
+    "name": {
+      "english": "Hakamo-o",
+      "japanese": "ジャランゴ",
+      "chinese": "鳞甲龙",
+      "french": "Ékaïser"
+    },
+    "type": [
+      "Dragon",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 75,
+      "Defense": 90,
+      "Sp. Attack": 65,
+      "Sp. Defense": 70,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 784,
+    "name": {
+      "english": "Kommo-o",
+      "japanese": "ジャラランガ",
+      "chinese": "杖尾鳞甲龙",
+      "french": "Tokorico"
+    },
+    "type": [
+      "Dragon",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 110,
+      "Defense": 125,
+      "Sp. Attack": 100,
+      "Sp. Defense": 105,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 785,
+    "name": {
+      "english": "Tapu Koko",
+      "japanese": "カプ・コケコ",
+      "chinese": "卡璞・鸣鸣",
+      "french": "Tokopiyon"
+    },
+    "type": [
+      "Electric",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 115,
+      "Defense": 85,
+      "Sp. Attack": 95,
+      "Sp. Defense": 75,
+      "Speed": 130
+    }
+  },
+  {
+    "id": 786,
+    "name": {
+      "english": "Tapu Lele",
+      "japanese": "カプ・テテフ",
+      "chinese": "卡璞・蝶蝶",
+      "french": "Tokotoro"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 75,
+      "Sp. Attack": 130,
+      "Sp. Defense": 115,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 787,
+    "name": {
+      "english": "Tapu Bulu",
+      "japanese": "カプ・ブルル",
+      "chinese": "卡璞・哞哞",
+      "french": "Tokopisco"
+    },
+    "type": [
+      "Grass",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 130,
+      "Defense": 115,
+      "Sp. Attack": 85,
+      "Sp. Defense": 95,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 788,
+    "name": {
+      "english": "Tapu Fini",
+      "japanese": "カプ・レヒレ",
+      "chinese": "卡璞・鳍鳍",
+      "french": "Cosmog"
+    },
+    "type": [
+      "Water",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 75,
+      "Defense": 115,
+      "Sp. Attack": 95,
+      "Sp. Defense": 130,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 789,
+    "name": {
+      "english": "Cosmog",
+      "japanese": "コスモッグ",
+      "chinese": "科斯莫古",
+      "french": "Cosmovum"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 43,
+      "Attack": 29,
+      "Defense": 31,
+      "Sp. Attack": 29,
+      "Sp. Defense": 31,
+      "Speed": 37
+    }
+  },
+  {
+    "id": 790,
+    "name": {
+      "english": "Cosmoem",
+      "japanese": "コスモウム",
+      "chinese": "科斯莫姆",
+      "french": "Solgaleo"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 43,
+      "Attack": 29,
+      "Defense": 131,
+      "Sp. Attack": 29,
+      "Sp. Defense": 131,
+      "Speed": 37
+    }
+  },
+  {
+    "id": 791,
+    "name": {
+      "english": "Solgaleo",
+      "japanese": "ソルガレオ",
+      "chinese": "索尔迦雷欧",
+      "french": "Lunala"
+    },
+    "type": [
+      "Psychic",
+      "Steel"
+    ],
+    "base": {
+      "HP": 137,
+      "Attack": 137,
+      "Defense": 107,
+      "Sp. Attack": 113,
+      "Sp. Defense": 89,
+      "Speed": 97
+    }
+  },
+  {
+    "id": 792,
+    "name": {
+      "english": "Lunala",
+      "japanese": "ルナアーラ",
+      "chinese": "露奈雅拉",
+      "french": "Zéroïd"
+    },
+    "type": [
+      "Psychic",
+      "Ghost"
+    ],
+    "base": {
+      "HP": 137,
+      "Attack": 113,
+      "Defense": 89,
+      "Sp. Attack": 137,
+      "Sp. Defense": 107,
+      "Speed": 97
+    }
+  },
+  {
+    "id": 793,
+    "name": {
+      "english": "Nihilego",
+      "japanese": "ウツロイド",
+      "chinese": "虚吾伊德",
+      "french": "Mouscoto"
+    },
+    "type": [
+      "Rock",
+      "Poison"
+    ],
+    "base": {
+      "HP": 109,
+      "Attack": 53,
+      "Defense": 47,
+      "Sp. Attack": 127,
+      "Sp. Defense": 131,
+      "Speed": 103
+    }
+  },
+  {
+    "id": 794,
+    "name": {
+      "english": "Buzzwole",
+      "japanese": "マッシブーン",
+      "chinese": "爆肌蚊",
+      "french": "Cancrelove"
+    },
+    "type": [
+      "Bug",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 107,
+      "Attack": 139,
+      "Defense": 139,
+      "Sp. Attack": 53,
+      "Sp. Defense": 53,
+      "Speed": 79
+    }
+  },
+  {
+    "id": 795,
+    "name": {
+      "english": "Pheromosa",
+      "japanese": "フェローチェ",
+      "chinese": "费洛美螂",
+      "french": "Câblifère"
+    },
+    "type": [
+      "Bug",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 71,
+      "Attack": 137,
+      "Defense": 37,
+      "Sp. Attack": 137,
+      "Sp. Defense": 37,
+      "Speed": 151
+    }
+  },
+  {
+    "id": 796,
+    "name": {
+      "english": "Xurkitree",
+      "japanese": "デンジュモク",
+      "chinese": "电束木",
+      "french": "Bamboiselle"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 83,
+      "Attack": 89,
+      "Defense": 71,
+      "Sp. Attack": 173,
+      "Sp. Defense": 71,
+      "Speed": 83
+    }
+  },
+  {
+    "id": 797,
+    "name": {
+      "english": "Celesteela",
+      "japanese": "テッカグヤ",
+      "chinese": "铁火辉夜",
+      "french": "Katagami"
+    },
+    "type": [
+      "Steel",
+      "Flying"
+    ],
+    "base": {
+      "HP": 97,
+      "Attack": 101,
+      "Defense": 103,
+      "Sp. Attack": 107,
+      "Sp. Defense": 101,
+      "Speed": 61
+    }
+  },
+  {
+    "id": 798,
+    "name": {
+      "english": "Kartana",
+      "japanese": "カミツルギ",
+      "chinese": "纸御剑",
+      "french": "Engloutyran"
+    },
+    "type": [
+      "Grass",
+      "Steel"
+    ],
+    "base": {
+      "HP": 59,
+      "Attack": 181,
+      "Defense": 131,
+      "Sp. Attack": 59,
+      "Sp. Defense": 31,
+      "Speed": 109
+    }
+  },
+  {
+    "id": 799,
+    "name": {
+      "english": "Guzzlord",
+      "japanese": "アクジキング",
+      "chinese": "恶食大王",
+      "french": "Necrozma"
+    },
+    "type": [
+      "Dark",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 223,
+      "Attack": 101,
+      "Defense": 53,
+      "Sp. Attack": 97,
+      "Sp. Defense": 53,
+      "Speed": 43
+    }
+  },
+  {
+    "id": 800,
+    "name": {
+      "english": "Necrozma",
+      "japanese": "ネクロズマ",
+      "chinese": "奈克洛兹玛",
+      "french": "Magearna"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 97,
+      "Attack": 107,
+      "Defense": 101,
+      "Sp. Attack": 127,
+      "Sp. Defense": 89,
+      "Speed": 79
+    }
+  }
+]

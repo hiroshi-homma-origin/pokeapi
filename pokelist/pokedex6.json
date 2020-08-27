@@ -1,0 +1,411 @@
+[
+  {
+    "id": 121,
+    "name": {
+      "english": "Starmie",
+      "japanese": "スターミー",
+      "chinese": "宝石海星",
+      "french": "Staross"
+    },
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 75,
+      "Defense": 85,
+      "Sp. Attack": 100,
+      "Sp. Defense": 85,
+      "Speed": 115
+    }
+  },
+  {
+    "id": 122,
+    "name": {
+      "english": "Mr. Mime",
+      "japanese": "バリヤード",
+      "chinese": "魔墙人偶",
+      "french": "M. Mime"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 65,
+      "Sp. Attack": 100,
+      "Sp. Defense": 120,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 123,
+    "name": {
+      "english": "Scyther",
+      "japanese": "ストライク",
+      "chinese": "飞天螳螂",
+      "french": "Insécateur"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 110,
+      "Defense": 80,
+      "Sp. Attack": 55,
+      "Sp. Defense": 80,
+      "Speed": 105
+    }
+  },
+  {
+    "id": 124,
+    "name": {
+      "english": "Jynx",
+      "japanese": "ルージュラ",
+      "chinese": "迷唇姐",
+      "french": "Lippoutou"
+    },
+    "type": [
+      "Ice",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 50,
+      "Defense": 35,
+      "Sp. Attack": 115,
+      "Sp. Defense": 95,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 125,
+    "name": {
+      "english": "Electabuzz",
+      "japanese": "エレブー",
+      "chinese": "电击兽",
+      "french": "Élektek"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 83,
+      "Defense": 57,
+      "Sp. Attack": 95,
+      "Sp. Defense": 85,
+      "Speed": 105
+    }
+  },
+  {
+    "id": 126,
+    "name": {
+      "english": "Magmar",
+      "japanese": "ブーバー",
+      "chinese": "鸭嘴火兽",
+      "french": "Magmar"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 95,
+      "Defense": 57,
+      "Sp. Attack": 100,
+      "Sp. Defense": 85,
+      "Speed": 93
+    }
+  },
+  {
+    "id": 127,
+    "name": {
+      "english": "Pinsir",
+      "japanese": "カイロス",
+      "chinese": "凯罗斯",
+      "french": "Scarabrute"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 125,
+      "Defense": 100,
+      "Sp. Attack": 55,
+      "Sp. Defense": 70,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 128,
+    "name": {
+      "english": "Tauros",
+      "japanese": "ケンタロス",
+      "chinese": "肯泰罗",
+      "french": "Tauros"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 100,
+      "Defense": 95,
+      "Sp. Attack": 40,
+      "Sp. Defense": 70,
+      "Speed": 110
+    }
+  },
+  {
+    "id": 129,
+    "name": {
+      "english": "Magikarp",
+      "japanese": "コイキング",
+      "chinese": "鲤鱼王",
+      "french": "Magicarpe"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 20,
+      "Attack": 10,
+      "Defense": 55,
+      "Sp. Attack": 15,
+      "Sp. Defense": 20,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 130,
+    "name": {
+      "english": "Gyarados",
+      "japanese": "ギャラドス",
+      "chinese": "暴鲤龙",
+      "french": "Léviator"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "base": {
+      "HP": 95,
+      "Attack": 125,
+      "Defense": 79,
+      "Sp. Attack": 60,
+      "Sp. Defense": 100,
+      "Speed": 81
+    }
+  },
+  {
+    "id": 131,
+    "name": {
+      "english": "Lapras",
+      "japanese": "ラプラス",
+      "chinese": "拉普拉斯",
+      "french": "Lokhlass"
+    },
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "base": {
+      "HP": 130,
+      "Attack": 85,
+      "Defense": 80,
+      "Sp. Attack": 85,
+      "Sp. Defense": 95,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 132,
+    "name": {
+      "english": "Ditto",
+      "japanese": "メタモン",
+      "chinese": "百变怪",
+      "french": "Métamorph"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 48,
+      "Attack": 48,
+      "Defense": 48,
+      "Sp. Attack": 48,
+      "Sp. Defense": 48,
+      "Speed": 48
+    }
+  },
+  {
+    "id": 133,
+    "name": {
+      "english": "Eevee",
+      "japanese": "イーブイ",
+      "chinese": "伊布",
+      "french": "Évoli"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 55,
+      "Defense": 50,
+      "Sp. Attack": 45,
+      "Sp. Defense": 65,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 134,
+    "name": {
+      "english": "Vaporeon",
+      "japanese": "シャワーズ",
+      "chinese": "水伊布",
+      "french": "Aquali"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 130,
+      "Attack": 65,
+      "Defense": 60,
+      "Sp. Attack": 110,
+      "Sp. Defense": 95,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 135,
+    "name": {
+      "english": "Jolteon",
+      "japanese": "サンダース",
+      "chinese": "雷伊布",
+      "french": "Voltali"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 65,
+      "Defense": 60,
+      "Sp. Attack": 110,
+      "Sp. Defense": 95,
+      "Speed": 130
+    }
+  },
+  {
+    "id": 136,
+    "name": {
+      "english": "Flareon",
+      "japanese": "ブースター",
+      "chinese": "火伊布",
+      "french": "Pyroli"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 130,
+      "Defense": 60,
+      "Sp. Attack": 95,
+      "Sp. Defense": 110,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 137,
+    "name": {
+      "english": "Porygon",
+      "japanese": "ポリゴン",
+      "chinese": "多边兽",
+      "french": "Porygon"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 60,
+      "Defense": 70,
+      "Sp. Attack": 85,
+      "Sp. Defense": 75,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 138,
+    "name": {
+      "english": "Omanyte",
+      "japanese": "オムナイト",
+      "chinese": "菊石兽",
+      "french": "Amonita"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 40,
+      "Defense": 100,
+      "Sp. Attack": 90,
+      "Sp. Defense": 55,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 139,
+    "name": {
+      "english": "Omastar",
+      "japanese": "オムスター",
+      "chinese": "多刺菊石兽",
+      "french": "Amonistar"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 60,
+      "Defense": 125,
+      "Sp. Attack": 115,
+      "Sp. Defense": 70,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 140,
+    "name": {
+      "english": "Kabuto",
+      "japanese": "カブト",
+      "chinese": "化石盔",
+      "french": "Kabuto"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "base": {
+      "HP": 30,
+      "Attack": 80,
+      "Defense": 90,
+      "Sp. Attack": 55,
+      "Sp. Defense": 45,
+      "Speed": 55
+    }
+  }
+]

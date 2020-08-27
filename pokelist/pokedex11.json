@@ -1,0 +1,411 @@
+[
+  {
+    "id": 221,
+    "name": {
+      "english": "Piloswine",
+      "japanese": "イノムー",
+      "chinese": "长毛猪",
+      "french": "Cochignon"
+    },
+    "type": [
+      "Ice",
+      "Ground"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 80,
+      "Sp. Attack": 60,
+      "Sp. Defense": 60,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 222,
+    "name": {
+      "english": "Corsola",
+      "japanese": "サニーゴ",
+      "chinese": "太阳珊瑚",
+      "french": "Corayon"
+    },
+    "type": [
+      "Water",
+      "Rock"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 55,
+      "Defense": 95,
+      "Sp. Attack": 65,
+      "Sp. Defense": 95,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 223,
+    "name": {
+      "english": "Remoraid",
+      "japanese": "テッポウオ",
+      "chinese": "铁炮鱼",
+      "french": "Rémoraid"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 65,
+      "Defense": 35,
+      "Sp. Attack": 65,
+      "Sp. Defense": 35,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 224,
+    "name": {
+      "english": "Octillery",
+      "japanese": "オクタン",
+      "chinese": "章鱼桶",
+      "french": "Octillery"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 105,
+      "Defense": 75,
+      "Sp. Attack": 105,
+      "Sp. Defense": 75,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 225,
+    "name": {
+      "english": "Delibird",
+      "japanese": "デリバード",
+      "chinese": "信使鸟",
+      "french": "Cadoizo"
+    },
+    "type": [
+      "Ice",
+      "Flying"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 55,
+      "Defense": 45,
+      "Sp. Attack": 65,
+      "Sp. Defense": 45,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 226,
+    "name": {
+      "english": "Mantine",
+      "japanese": "マンタイン",
+      "chinese": "巨翅飞鱼",
+      "french": "Démanta"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 40,
+      "Defense": 70,
+      "Sp. Attack": 80,
+      "Sp. Defense": 140,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 227,
+    "name": {
+      "english": "Skarmory",
+      "japanese": "エアームド",
+      "chinese": "盔甲鸟",
+      "french": "Airmure"
+    },
+    "type": [
+      "Steel",
+      "Flying"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 80,
+      "Defense": 140,
+      "Sp. Attack": 40,
+      "Sp. Defense": 70,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 228,
+    "name": {
+      "english": "Houndour",
+      "japanese": "デルビル",
+      "chinese": "戴鲁比",
+      "french": "Malosse"
+    },
+    "type": [
+      "Dark",
+      "Fire"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 60,
+      "Defense": 30,
+      "Sp. Attack": 80,
+      "Sp. Defense": 50,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 229,
+    "name": {
+      "english": "Houndoom",
+      "japanese": "ヘルガー",
+      "chinese": "黑鲁加",
+      "french": "Démolosse"
+    },
+    "type": [
+      "Dark",
+      "Fire"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 90,
+      "Defense": 50,
+      "Sp. Attack": 110,
+      "Sp. Defense": 80,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 230,
+    "name": {
+      "english": "Kingdra",
+      "japanese": "キングドラ",
+      "chinese": "刺龙王",
+      "french": "Hyporoi"
+    },
+    "type": [
+      "Water",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 95,
+      "Defense": 95,
+      "Sp. Attack": 95,
+      "Sp. Defense": 95,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 231,
+    "name": {
+      "english": "Phanpy",
+      "japanese": "ゴマゾウ",
+      "chinese": "小小象",
+      "french": "Phanpy"
+    },
+    "type": [
+      "Ground"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 60,
+      "Defense": 60,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 232,
+    "name": {
+      "english": "Donphan",
+      "japanese": "ドンファン",
+      "chinese": "顿甲",
+      "french": "Donphan"
+    },
+    "type": [
+      "Ground"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 120,
+      "Defense": 120,
+      "Sp. Attack": 60,
+      "Sp. Defense": 60,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 233,
+    "name": {
+      "english": "Porygon2",
+      "japanese": "ポリゴン２",
+      "chinese": "多边兽Ⅱ",
+      "french": "Porygon2"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 80,
+      "Defense": 90,
+      "Sp. Attack": 105,
+      "Sp. Defense": 95,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 234,
+    "name": {
+      "english": "Stantler",
+      "japanese": "オドシシ",
+      "chinese": "惊角鹿",
+      "french": "Cerfrousse"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 73,
+      "Attack": 95,
+      "Defense": 62,
+      "Sp. Attack": 85,
+      "Sp. Defense": 65,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 235,
+    "name": {
+      "english": "Smeargle",
+      "japanese": "ドーブル",
+      "chinese": "图图犬",
+      "french": "Queulorior"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 20,
+      "Defense": 35,
+      "Sp. Attack": 20,
+      "Sp. Defense": 45,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 236,
+    "name": {
+      "english": "Tyrogue",
+      "japanese": "バルキー",
+      "chinese": "无畏小子",
+      "french": "Debugant"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 35,
+      "Defense": 35,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 237,
+    "name": {
+      "english": "Hitmontop",
+      "japanese": "カポエラー",
+      "chinese": "战舞郎",
+      "french": "Kapoera"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 95,
+      "Defense": 95,
+      "Sp. Attack": 35,
+      "Sp. Defense": 110,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 238,
+    "name": {
+      "english": "Smoochum",
+      "japanese": "ムチュール",
+      "chinese": "迷唇娃",
+      "french": "Lippouti"
+    },
+    "type": [
+      "Ice",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 30,
+      "Defense": 15,
+      "Sp. Attack": 85,
+      "Sp. Defense": 65,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 239,
+    "name": {
+      "english": "Elekid",
+      "japanese": "エレキッド",
+      "chinese": "电击怪",
+      "french": "Élekid"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 63,
+      "Defense": 37,
+      "Sp. Attack": 65,
+      "Sp. Defense": 55,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 240,
+    "name": {
+      "english": "Magby",
+      "japanese": "ブビィ",
+      "chinese": "鸭嘴宝宝",
+      "french": "Magby"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 75,
+      "Defense": 37,
+      "Sp. Attack": 70,
+      "Sp. Defense": 55,
+      "Speed": 83
+    }
+  }
+]

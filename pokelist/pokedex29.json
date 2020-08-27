@@ -1,0 +1,408 @@
+[
+  {
+    "id": 561,
+    "name": {
+      "english": "Sigilyph",
+      "japanese": "シンボラー",
+      "chinese": "象征鸟",
+      "french": "Cryptéro"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "base": {
+      "HP": 72,
+      "Attack": 58,
+      "Defense": 80,
+      "Sp. Attack": 103,
+      "Sp. Defense": 80,
+      "Speed": 97
+    }
+  },
+  {
+    "id": 562,
+    "name": {
+      "english": "Yamask",
+      "japanese": "デスマス",
+      "chinese": "哭哭面具",
+      "french": "Tutafeh"
+    },
+    "type": [
+      "Ghost"
+    ],
+    "base": {
+      "HP": 38,
+      "Attack": 30,
+      "Defense": 85,
+      "Sp. Attack": 55,
+      "Sp. Defense": 65,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 563,
+    "name": {
+      "english": "Cofagrigus",
+      "japanese": "デスカーン",
+      "chinese": "死神棺",
+      "french": "Tutankafer"
+    },
+    "type": [
+      "Ghost"
+    ],
+    "base": {
+      "HP": 58,
+      "Attack": 50,
+      "Defense": 145,
+      "Sp. Attack": 95,
+      "Sp. Defense": 105,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 564,
+    "name": {
+      "english": "Tirtouga",
+      "japanese": "プロトーガ",
+      "chinese": "原盖海龟",
+      "french": "Carapagos"
+    },
+    "type": [
+      "Water",
+      "Rock"
+    ],
+    "base": {
+      "HP": 54,
+      "Attack": 78,
+      "Defense": 103,
+      "Sp. Attack": 53,
+      "Sp. Defense": 45,
+      "Speed": 22
+    }
+  },
+  {
+    "id": 565,
+    "name": {
+      "english": "Carracosta",
+      "japanese": "アバゴーラ",
+      "chinese": "肋骨海龟",
+      "french": "Mégapagos"
+    },
+    "type": [
+      "Water",
+      "Rock"
+    ],
+    "base": {
+      "HP": 74,
+      "Attack": 108,
+      "Defense": 133,
+      "Sp. Attack": 83,
+      "Sp. Defense": 65,
+      "Speed": 32
+    }
+  },
+  {
+    "id": 566,
+    "name": {
+      "english": "Archen",
+      "japanese": "アーケン",
+      "chinese": "始祖小鸟",
+      "french": "Arkéapti"
+    },
+    "type": [
+      "Rock",
+      "Flying"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 112,
+      "Defense": 45,
+      "Sp. Attack": 74,
+      "Sp. Defense": 45,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 567,
+    "name": {
+      "english": "Archeops",
+      "japanese": "アーケオス",
+      "chinese": "始祖大鸟",
+      "french": "Aéroptéryx"
+    },
+    "type": [
+      "Rock",
+      "Flying"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 140,
+      "Defense": 65,
+      "Sp. Attack": 112,
+      "Sp. Defense": 65,
+      "Speed": 110
+    }
+  },
+  {
+    "id": 568,
+    "name": {
+      "english": "Trubbish",
+      "japanese": "ヤブクロン",
+      "chinese": "破破袋",
+      "french": "Miamiasme"
+    },
+    "type": [
+      "Poison"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 50,
+      "Defense": 62,
+      "Sp. Attack": 40,
+      "Sp. Defense": 62,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 569,
+    "name": {
+      "english": "Garbodor",
+      "japanese": "ダストダス",
+      "chinese": "灰尘山",
+      "french": "Miasmax"
+    },
+    "type": [
+      "Poison"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 95,
+      "Defense": 82,
+      "Sp. Attack": 60,
+      "Sp. Defense": 82,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 570,
+    "name": {
+      "english": "Zorua",
+      "japanese": "ゾロア",
+      "chinese": "索罗亚",
+      "french": "Zorua"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 65,
+      "Defense": 40,
+      "Sp. Attack": 80,
+      "Sp. Defense": 40,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 571,
+    "name": {
+      "english": "Zoroark",
+      "japanese": "ゾロアーク",
+      "chinese": "索罗亚克",
+      "french": "Zoroark"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 105,
+      "Defense": 60,
+      "Sp. Attack": 120,
+      "Sp. Defense": 60,
+      "Speed": 105
+    }
+  },
+  {
+    "id": 572,
+    "name": {
+      "english": "Minccino",
+      "japanese": "チラーミィ",
+      "chinese": "泡沫栗鼠",
+      "french": "Chinchidou"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 50,
+      "Defense": 40,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 573,
+    "name": {
+      "english": "Cinccino",
+      "japanese": "チラチーノ",
+      "chinese": "奇诺栗鼠",
+      "french": "Pashmilla"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 95,
+      "Defense": 60,
+      "Sp. Attack": 65,
+      "Sp. Defense": 60,
+      "Speed": 115
+    }
+  },
+  {
+    "id": 574,
+    "name": {
+      "english": "Gothita",
+      "japanese": "ゴチム",
+      "chinese": "哥德宝宝",
+      "french": "Scrutella"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 30,
+      "Defense": 50,
+      "Sp. Attack": 55,
+      "Sp. Defense": 65,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 575,
+    "name": {
+      "english": "Gothorita",
+      "japanese": "ゴチミル",
+      "chinese": "哥德小童",
+      "french": "Mesmérella"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 45,
+      "Defense": 70,
+      "Sp. Attack": 75,
+      "Sp. Defense": 85,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 576,
+    "name": {
+      "english": "Gothitelle",
+      "japanese": "ゴチルゼル",
+      "chinese": "哥德小姐",
+      "french": "Sidérella"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 55,
+      "Defense": 95,
+      "Sp. Attack": 95,
+      "Sp. Defense": 110,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 577,
+    "name": {
+      "english": "Solosis",
+      "japanese": "ユニラン",
+      "chinese": "单卵细胞球",
+      "french": "Nucléos"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 30,
+      "Defense": 40,
+      "Sp. Attack": 105,
+      "Sp. Defense": 50,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 578,
+    "name": {
+      "english": "Duosion",
+      "japanese": "ダブラン",
+      "chinese": "双卵细胞球",
+      "french": "Méios"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 40,
+      "Defense": 50,
+      "Sp. Attack": 125,
+      "Sp. Defense": 60,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 579,
+    "name": {
+      "english": "Reuniclus",
+      "japanese": "ランクルス",
+      "chinese": "人造细胞卵",
+      "french": "Symbios"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 110,
+      "Attack": 65,
+      "Defense": 75,
+      "Sp. Attack": 125,
+      "Sp. Defense": 85,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 580,
+    "name": {
+      "english": "Ducklett",
+      "japanese": "コアルヒー",
+      "chinese": "鸭宝宝",
+      "french": "Couaneton"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "base": {
+      "HP": 62,
+      "Attack": 44,
+      "Defense": 50,
+      "Sp. Attack": 44,
+      "Sp. Defense": 50,
+      "Speed": 55
+    }
+  }
+]

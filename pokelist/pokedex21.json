@@ -1,0 +1,410 @@
+[
+  {
+    "id": 401,
+    "name": {
+      "english": "Kricketot",
+      "japanese": "コロボーシ",
+      "chinese": "圆法师",
+      "french": "Crikzik"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 37,
+      "Attack": 25,
+      "Defense": 41,
+      "Sp. Attack": 25,
+      "Sp. Defense": 41,
+      "Speed": 25
+    }
+  },
+  {
+    "id": 402,
+    "name": {
+      "english": "Kricketune",
+      "japanese": "コロトック",
+      "chinese": "音箱蟀",
+      "french": "Mélokrik"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 77,
+      "Attack": 85,
+      "Defense": 51,
+      "Sp. Attack": 55,
+      "Sp. Defense": 51,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 403,
+    "name": {
+      "english": "Shinx",
+      "japanese": "コリンク",
+      "chinese": "小猫怪",
+      "french": "Lixy"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 65,
+      "Defense": 34,
+      "Sp. Attack": 40,
+      "Sp. Defense": 34,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 404,
+    "name": {
+      "english": "Luxio",
+      "japanese": "ルクシオ",
+      "chinese": "勒克猫",
+      "french": "Luxio"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 85,
+      "Defense": 49,
+      "Sp. Attack": 60,
+      "Sp. Defense": 49,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 405,
+    "name": {
+      "english": "Luxray",
+      "japanese": "レントラー",
+      "chinese": "伦琴猫",
+      "french": "Luxray"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 120,
+      "Defense": 79,
+      "Sp. Attack": 95,
+      "Sp. Defense": 79,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 406,
+    "name": {
+      "english": "Budew",
+      "japanese": "スボミー",
+      "chinese": "含羞苞",
+      "french": "Rozbouton"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 30,
+      "Defense": 35,
+      "Sp. Attack": 50,
+      "Sp. Defense": 70,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 407,
+    "name": {
+      "english": "Roserade",
+      "japanese": "ロズレイド",
+      "chinese": "罗丝雷朵",
+      "french": "Roserade"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 70,
+      "Defense": 65,
+      "Sp. Attack": 125,
+      "Sp. Defense": 105,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 408,
+    "name": {
+      "english": "Cranidos",
+      "japanese": "ズガイドス",
+      "chinese": "头盖龙",
+      "french": "Kranidos"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 67,
+      "Attack": 125,
+      "Defense": 40,
+      "Sp. Attack": 30,
+      "Sp. Defense": 30,
+      "Speed": 58
+    }
+  },
+  {
+    "id": 409,
+    "name": {
+      "english": "Rampardos",
+      "japanese": "ラムパルド",
+      "chinese": "战槌龙",
+      "french": "Charkos"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 97,
+      "Attack": 165,
+      "Defense": 60,
+      "Sp. Attack": 65,
+      "Sp. Defense": 50,
+      "Speed": 58
+    }
+  },
+  {
+    "id": 410,
+    "name": {
+      "english": "Shieldon",
+      "japanese": "タテトプス",
+      "chinese": "盾甲龙",
+      "french": "Dinoclier"
+    },
+    "type": [
+      "Rock",
+      "Steel"
+    ],
+    "base": {
+      "HP": 30,
+      "Attack": 42,
+      "Defense": 118,
+      "Sp. Attack": 42,
+      "Sp. Defense": 88,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 411,
+    "name": {
+      "english": "Bastiodon",
+      "japanese": "トリデプス",
+      "chinese": "护城龙",
+      "french": "Bastiodon"
+    },
+    "type": [
+      "Rock",
+      "Steel"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 52,
+      "Defense": 168,
+      "Sp. Attack": 47,
+      "Sp. Defense": 138,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 412,
+    "name": {
+      "english": "Burmy",
+      "japanese": "ミノムッチ",
+      "chinese": "结草儿",
+      "french": "Cheniti"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 29,
+      "Defense": 45,
+      "Sp. Attack": 29,
+      "Sp. Defense": 45,
+      "Speed": 36
+    }
+  },
+  {
+    "id": 413,
+    "name": {
+      "english": "Wormadam",
+      "japanese": "ミノマダム",
+      "chinese": "结草贵妇",
+      "french": "Cheniselle"
+    },
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 59,
+      "Defense": 85,
+      "Sp. Attack": 79,
+      "Sp. Defense": 105,
+      "Speed": 36
+    }
+  },
+  {
+    "id": 414,
+    "name": {
+      "english": "Mothim",
+      "japanese": "ガーメイル",
+      "chinese": "绅士蛾",
+      "french": "Papilord"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 94,
+      "Defense": 50,
+      "Sp. Attack": 94,
+      "Sp. Defense": 50,
+      "Speed": 66
+    }
+  },
+  {
+    "id": 415,
+    "name": {
+      "english": "Combee",
+      "japanese": "ミツハニー",
+      "chinese": "三蜜蜂",
+      "french": "Apitrini"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "base": {
+      "HP": 30,
+      "Attack": 30,
+      "Defense": 42,
+      "Sp. Attack": 30,
+      "Sp. Defense": 42,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 416,
+    "name": {
+      "english": "Vespiquen",
+      "japanese": "ビークイン",
+      "chinese": "蜂女王",
+      "french": "Apireine"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 80,
+      "Defense": 102,
+      "Sp. Attack": 80,
+      "Sp. Defense": 102,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 417,
+    "name": {
+      "english": "Pachirisu",
+      "japanese": "パチリス",
+      "chinese": "帕奇利兹",
+      "french": "Pachirisu"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 45,
+      "Defense": 70,
+      "Sp. Attack": 45,
+      "Sp. Defense": 90,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 418,
+    "name": {
+      "english": "Buizel",
+      "japanese": "ブイゼル",
+      "chinese": "泳圈鼬",
+      "french": "Mustébouée"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 65,
+      "Defense": 35,
+      "Sp. Attack": 60,
+      "Sp. Defense": 30,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 419,
+    "name": {
+      "english": "Floatzel",
+      "japanese": "フローゼル",
+      "chinese": "浮潜鼬",
+      "french": "Mustéflott"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 105,
+      "Defense": 55,
+      "Sp. Attack": 85,
+      "Sp. Defense": 50,
+      "Speed": 115
+    }
+  },
+  {
+    "id": 420,
+    "name": {
+      "english": "Cherubi",
+      "japanese": "チェリンボ",
+      "chinese": "樱花宝",
+      "french": "Ceribou"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 35,
+      "Defense": 45,
+      "Sp. Attack": 62,
+      "Sp. Defense": 53,
+      "Speed": 35
+    }
+  }
+]

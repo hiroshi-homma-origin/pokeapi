@@ -1,0 +1,415 @@
+[
+  {
+    "id": 681,
+    "name": {
+      "english": "Aegislash",
+      "japanese": "ギルガルド",
+      "chinese": "坚盾剑怪",
+      "french": "Exagide"
+    },
+    "type": [
+      "Steel",
+      "Ghost"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 50,
+      "Defense": 150,
+      "Sp. Attack": 50,
+      "Sp. Defense": 150,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 682,
+    "name": {
+      "english": "Spritzee",
+      "japanese": "シュシュプ",
+      "chinese": "粉香香",
+      "french": "Fluvetin"
+    },
+    "type": [
+      "Fairy"
+    ],
+    "base": {
+      "HP": 78,
+      "Attack": 52,
+      "Defense": 60,
+      "Sp. Attack": 63,
+      "Sp. Defense": 65,
+      "Speed": 23
+    }
+  },
+  {
+    "id": 683,
+    "name": {
+      "english": "Aromatisse",
+      "japanese": "フレフワン",
+      "chinese": "芳香精",
+      "french": "Cocotine"
+    },
+    "type": [
+      "Fairy"
+    ],
+    "base": {
+      "HP": 101,
+      "Attack": 72,
+      "Defense": 72,
+      "Sp. Attack": 99,
+      "Sp. Defense": 89,
+      "Speed": 29
+    }
+  },
+  {
+    "id": 684,
+    "name": {
+      "english": "Swirlix",
+      "japanese": "ペロッパフ",
+      "chinese": "绵绵泡芙",
+      "french": "Sucroquin"
+    },
+    "type": [
+      "Fairy"
+    ],
+    "base": {
+      "HP": 62,
+      "Attack": 48,
+      "Defense": 66,
+      "Sp. Attack": 59,
+      "Sp. Defense": 57,
+      "Speed": 49
+    }
+  },
+  {
+    "id": 685,
+    "name": {
+      "english": "Slurpuff",
+      "japanese": "ペロリーム",
+      "chinese": "胖甜妮",
+      "french": "Cupcanaille"
+    },
+    "type": [
+      "Fairy"
+    ],
+    "base": {
+      "HP": 82,
+      "Attack": 80,
+      "Defense": 86,
+      "Sp. Attack": 85,
+      "Sp. Defense": 75,
+      "Speed": 72
+    }
+  },
+  {
+    "id": 686,
+    "name": {
+      "english": "Inkay",
+      "japanese": "マーイーカ",
+      "chinese": "好啦鱿",
+      "french": "Sepiatop"
+    },
+    "type": [
+      "Dark",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 53,
+      "Attack": 54,
+      "Defense": 53,
+      "Sp. Attack": 37,
+      "Sp. Defense": 46,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 687,
+    "name": {
+      "english": "Malamar",
+      "japanese": "カラマネロ",
+      "chinese": "乌贼王",
+      "french": "Sepiatroce"
+    },
+    "type": [
+      "Dark",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 86,
+      "Attack": 92,
+      "Defense": 88,
+      "Sp. Attack": 68,
+      "Sp. Defense": 75,
+      "Speed": 73
+    }
+  },
+  {
+    "id": 688,
+    "name": {
+      "english": "Binacle",
+      "japanese": "カメテテ",
+      "chinese": "龟脚脚",
+      "french": "Opermine"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "base": {
+      "HP": 42,
+      "Attack": 52,
+      "Defense": 67,
+      "Sp. Attack": 39,
+      "Sp. Defense": 56,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 689,
+    "name": {
+      "english": "Barbaracle",
+      "japanese": "ガメノデス",
+      "chinese": "龟足巨铠",
+      "french": "Golgopathe"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "base": {
+      "HP": 72,
+      "Attack": 105,
+      "Defense": 115,
+      "Sp. Attack": 54,
+      "Sp. Defense": 86,
+      "Speed": 68
+    }
+  },
+  {
+    "id": 690,
+    "name": {
+      "english": "Skrelp",
+      "japanese": "クズモー",
+      "chinese": "垃垃藻",
+      "french": "Venalgue"
+    },
+    "type": [
+      "Poison",
+      "Water"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 60,
+      "Defense": 60,
+      "Sp. Attack": 60,
+      "Sp. Defense": 60,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 691,
+    "name": {
+      "english": "Dragalge",
+      "japanese": "ドラミドロ",
+      "chinese": "毒藻龙",
+      "french": "Kravarech"
+    },
+    "type": [
+      "Poison",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 75,
+      "Defense": 90,
+      "Sp. Attack": 97,
+      "Sp. Defense": 123,
+      "Speed": 44
+    }
+  },
+  {
+    "id": 692,
+    "name": {
+      "english": "Clauncher",
+      "japanese": "ウデッポウ",
+      "chinese": "铁臂枪虾",
+      "french": "Flingouste"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 53,
+      "Defense": 62,
+      "Sp. Attack": 58,
+      "Sp. Defense": 63,
+      "Speed": 44
+    }
+  },
+  {
+    "id": 693,
+    "name": {
+      "english": "Clawitzer",
+      "japanese": "ブロスター",
+      "chinese": "钢炮臂虾",
+      "french": "Gamblast"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 71,
+      "Attack": 73,
+      "Defense": 88,
+      "Sp. Attack": 120,
+      "Sp. Defense": 89,
+      "Speed": 59
+    }
+  },
+  {
+    "id": 694,
+    "name": {
+      "english": "Helioptile",
+      "japanese": "エリキテル",
+      "chinese": "伞电蜥",
+      "french": "Galvaran"
+    },
+    "type": [
+      "Electric",
+      "Normal"
+    ],
+    "base": {
+      "HP": 44,
+      "Attack": 38,
+      "Defense": 33,
+      "Sp. Attack": 61,
+      "Sp. Defense": 43,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 695,
+    "name": {
+      "english": "Heliolisk",
+      "japanese": "エレザード",
+      "chinese": "光电伞蜥",
+      "french": "Iguolta"
+    },
+    "type": [
+      "Electric",
+      "Normal"
+    ],
+    "base": {
+      "HP": 62,
+      "Attack": 55,
+      "Defense": 52,
+      "Sp. Attack": 109,
+      "Sp. Defense": 94,
+      "Speed": 109
+    }
+  },
+  {
+    "id": 696,
+    "name": {
+      "english": "Tyrunt",
+      "japanese": "チゴラス",
+      "chinese": "宝宝暴龙",
+      "french": "Ptyranidur"
+    },
+    "type": [
+      "Rock",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 58,
+      "Attack": 89,
+      "Defense": 77,
+      "Sp. Attack": 45,
+      "Sp. Defense": 45,
+      "Speed": 48
+    }
+  },
+  {
+    "id": 697,
+    "name": {
+      "english": "Tyrantrum",
+      "japanese": "ガチゴラス",
+      "chinese": "怪颚龙",
+      "french": "Rexillius"
+    },
+    "type": [
+      "Rock",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 82,
+      "Attack": 121,
+      "Defense": 119,
+      "Sp. Attack": 69,
+      "Sp. Defense": 59,
+      "Speed": 71
+    }
+  },
+  {
+    "id": 698,
+    "name": {
+      "english": "Amaura",
+      "japanese": "アマルス",
+      "chinese": "冰雪龙",
+      "french": "Amagara"
+    },
+    "type": [
+      "Rock",
+      "Ice"
+    ],
+    "base": {
+      "HP": 77,
+      "Attack": 59,
+      "Defense": 50,
+      "Sp. Attack": 67,
+      "Sp. Defense": 63,
+      "Speed": 46
+    }
+  },
+  {
+    "id": 699,
+    "name": {
+      "english": "Aurorus",
+      "japanese": "アマルルガ",
+      "chinese": "冰雪巨龙",
+      "french": "Dragmara"
+    },
+    "type": [
+      "Rock",
+      "Ice"
+    ],
+    "base": {
+      "HP": 123,
+      "Attack": 77,
+      "Defense": 72,
+      "Sp. Attack": 99,
+      "Sp. Defense": 92,
+      "Speed": 58
+    }
+  },
+  {
+    "id": 700,
+    "name": {
+      "english": "Sylveon",
+      "japanese": "ニンフィア",
+      "chinese": "仙子伊布",
+      "french": "Nymphali"
+    },
+    "type": [
+      "Fairy"
+    ],
+    "base": {
+      "HP": 95,
+      "Attack": 65,
+      "Defense": 65,
+      "Sp. Attack": 110,
+      "Sp. Defense": 130,
+      "Speed": 60
+    }
+  }
+]

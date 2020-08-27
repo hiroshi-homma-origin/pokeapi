@@ -1,0 +1,411 @@
+[
+  {
+    "id": 361,
+    "name": {
+      "english": "Snorunt",
+      "japanese": "ユキワラシ",
+      "chinese": "雪童子",
+      "french": "Stalgamin"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 50,
+      "Defense": 50,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 362,
+    "name": {
+      "english": "Glalie",
+      "japanese": "オニゴーリ",
+      "chinese": "冰鬼护",
+      "french": "Oniglali"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 80,
+      "Defense": 80,
+      "Sp. Attack": 80,
+      "Sp. Defense": 80,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 363,
+    "name": {
+      "english": "Spheal",
+      "japanese": "タマザラシ",
+      "chinese": "海豹球",
+      "french": "Obalie"
+    },
+    "type": [
+      "Ice",
+      "Water"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 40,
+      "Defense": 50,
+      "Sp. Attack": 55,
+      "Sp. Defense": 50,
+      "Speed": 25
+    }
+  },
+  {
+    "id": 364,
+    "name": {
+      "english": "Sealeo",
+      "japanese": "トドグラー",
+      "chinese": "海魔狮",
+      "french": "Phogleur"
+    },
+    "type": [
+      "Ice",
+      "Water"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 60,
+      "Defense": 70,
+      "Sp. Attack": 75,
+      "Sp. Defense": 70,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 365,
+    "name": {
+      "english": "Walrein",
+      "japanese": "トドゼルガ",
+      "chinese": "帝牙海狮",
+      "french": "Kaimorse"
+    },
+    "type": [
+      "Ice",
+      "Water"
+    ],
+    "base": {
+      "HP": 110,
+      "Attack": 80,
+      "Defense": 90,
+      "Sp. Attack": 95,
+      "Sp. Defense": 90,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 366,
+    "name": {
+      "english": "Clamperl",
+      "japanese": "パールル",
+      "chinese": "珍珠贝",
+      "french": "Coquiperl"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 64,
+      "Defense": 85,
+      "Sp. Attack": 74,
+      "Sp. Defense": 55,
+      "Speed": 32
+    }
+  },
+  {
+    "id": 367,
+    "name": {
+      "english": "Huntail",
+      "japanese": "ハンテール",
+      "chinese": "猎斑鱼",
+      "french": "Serpang"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 104,
+      "Defense": 105,
+      "Sp. Attack": 94,
+      "Sp. Defense": 75,
+      "Speed": 52
+    }
+  },
+  {
+    "id": 368,
+    "name": {
+      "english": "Gorebyss",
+      "japanese": "サクラビス",
+      "chinese": "樱花鱼",
+      "french": "Rosabyss"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 84,
+      "Defense": 105,
+      "Sp. Attack": 114,
+      "Sp. Defense": 75,
+      "Speed": 52
+    }
+  },
+  {
+    "id": 369,
+    "name": {
+      "english": "Relicanth",
+      "japanese": "ジーランス",
+      "chinese": "古空棘鱼",
+      "french": "Relicanth"
+    },
+    "type": [
+      "Water",
+      "Rock"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 90,
+      "Defense": 130,
+      "Sp. Attack": 45,
+      "Sp. Defense": 65,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 370,
+    "name": {
+      "english": "Luvdisc",
+      "japanese": "ラブカス",
+      "chinese": "爱心鱼",
+      "french": "Lovdisc"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 43,
+      "Attack": 30,
+      "Defense": 55,
+      "Sp. Attack": 40,
+      "Sp. Defense": 65,
+      "Speed": 97
+    }
+  },
+  {
+    "id": 371,
+    "name": {
+      "english": "Bagon",
+      "japanese": "タツベイ",
+      "chinese": "宝贝龙",
+      "french": "Draby"
+    },
+    "type": [
+      "Dragon"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 75,
+      "Defense": 60,
+      "Sp. Attack": 40,
+      "Sp. Defense": 30,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 372,
+    "name": {
+      "english": "Shelgon",
+      "japanese": "コモルー",
+      "chinese": "甲壳龙",
+      "french": "Drackhaus"
+    },
+    "type": [
+      "Dragon"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 95,
+      "Defense": 100,
+      "Sp. Attack": 60,
+      "Sp. Defense": 50,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 373,
+    "name": {
+      "english": "Salamence",
+      "japanese": "ボーマンダ",
+      "chinese": "暴飞龙",
+      "french": "Drattak"
+    },
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "base": {
+      "HP": 95,
+      "Attack": 135,
+      "Defense": 80,
+      "Sp. Attack": 110,
+      "Sp. Defense": 80,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 374,
+    "name": {
+      "english": "Beldum",
+      "japanese": "ダンバル",
+      "chinese": "铁哑铃",
+      "french": "Terhal"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 55,
+      "Defense": 80,
+      "Sp. Attack": 35,
+      "Sp. Defense": 60,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 375,
+    "name": {
+      "english": "Metang",
+      "japanese": "メタング",
+      "chinese": "金属怪",
+      "french": "Métang"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 75,
+      "Defense": 100,
+      "Sp. Attack": 55,
+      "Sp. Defense": 80,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 376,
+    "name": {
+      "english": "Metagross",
+      "japanese": "メタグロス",
+      "chinese": "巨金怪",
+      "french": "Métalosse"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 135,
+      "Defense": 130,
+      "Sp. Attack": 95,
+      "Sp. Defense": 90,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 377,
+    "name": {
+      "english": "Regirock",
+      "japanese": "レジロック",
+      "chinese": "雷吉洛克",
+      "french": "Regirock"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 100,
+      "Defense": 200,
+      "Sp. Attack": 50,
+      "Sp. Defense": 100,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 378,
+    "name": {
+      "english": "Regice",
+      "japanese": "レジアイス",
+      "chinese": "雷吉艾斯",
+      "french": "Regice"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 50,
+      "Defense": 100,
+      "Sp. Attack": 100,
+      "Sp. Defense": 200,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 379,
+    "name": {
+      "english": "Registeel",
+      "japanese": "レジスチル",
+      "chinese": "雷吉斯奇鲁",
+      "french": "Registeel"
+    },
+    "type": [
+      "Steel"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 75,
+      "Defense": 150,
+      "Sp. Attack": 75,
+      "Sp. Defense": 150,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 380,
+    "name": {
+      "english": "Latias",
+      "japanese": "ラティアス",
+      "chinese": "拉帝亚斯",
+      "french": "Latias"
+    },
+    "type": [
+      "Dragon",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 80,
+      "Defense": 90,
+      "Sp. Attack": 110,
+      "Sp. Defense": 130,
+      "Speed": 110
+    }
+  }
+]

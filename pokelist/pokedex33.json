@@ -1,0 +1,414 @@
+[
+  {
+    "id": 641,
+    "name": {
+      "english": "Tornadus",
+      "japanese": "トルネロス",
+      "chinese": "龙卷云",
+      "french": "Boréas"
+    },
+    "type": [
+      "Flying"
+    ],
+    "base": {
+      "HP": 79,
+      "Attack": 115,
+      "Defense": 70,
+      "Sp. Attack": 125,
+      "Sp. Defense": 80,
+      "Speed": 111
+    }
+  },
+  {
+    "id": 642,
+    "name": {
+      "english": "Thundurus",
+      "japanese": "ボルトロス",
+      "chinese": "雷电云",
+      "french": "Fulguris"
+    },
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "base": {
+      "HP": 79,
+      "Attack": 115,
+      "Defense": 70,
+      "Sp. Attack": 125,
+      "Sp. Defense": 80,
+      "Speed": 111
+    }
+  },
+  {
+    "id": 643,
+    "name": {
+      "english": "Reshiram",
+      "japanese": "レシラム",
+      "chinese": "莱希拉姆",
+      "french": "Reshiram"
+    },
+    "type": [
+      "Dragon",
+      "Fire"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 120,
+      "Defense": 100,
+      "Sp. Attack": 150,
+      "Sp. Defense": 120,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 644,
+    "name": {
+      "english": "Zekrom",
+      "japanese": "ゼクロム",
+      "chinese": "捷克罗姆",
+      "french": "Zekrom"
+    },
+    "type": [
+      "Dragon",
+      "Electric"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 150,
+      "Defense": 120,
+      "Sp. Attack": 120,
+      "Sp. Defense": 100,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 645,
+    "name": {
+      "english": "Landorus",
+      "japanese": "ランドロス",
+      "chinese": "土地云",
+      "french": "Démétéros"
+    },
+    "type": [
+      "Ground",
+      "Flying"
+    ],
+    "base": {
+      "HP": 89,
+      "Attack": 125,
+      "Defense": 90,
+      "Sp. Attack": 115,
+      "Sp. Defense": 80,
+      "Speed": 101
+    }
+  },
+  {
+    "id": 646,
+    "name": {
+      "english": "Kyurem",
+      "japanese": "キュレム",
+      "chinese": "酋雷姆",
+      "french": "Kyurem"
+    },
+    "type": [
+      "Dragon",
+      "Ice"
+    ],
+    "base": {
+      "HP": 125,
+      "Attack": 130,
+      "Defense": 90,
+      "Sp. Attack": 130,
+      "Sp. Defense": 90,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 647,
+    "name": {
+      "english": "Keldeo",
+      "japanese": "ケルディオ",
+      "chinese": "凯路迪欧",
+      "french": "Keldeo"
+    },
+    "type": [
+      "Water",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 91,
+      "Attack": 72,
+      "Defense": 90,
+      "Sp. Attack": 129,
+      "Sp. Defense": 90,
+      "Speed": 108
+    }
+  },
+  {
+    "id": 648,
+    "name": {
+      "english": "Meloetta",
+      "japanese": "メロエッタ",
+      "chinese": "美洛耶塔",
+      "french": "Meloetta"
+    },
+    "type": [
+      "Normal",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 77,
+      "Defense": 77,
+      "Sp. Attack": 128,
+      "Sp. Defense": 128,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 649,
+    "name": {
+      "english": "Genesect",
+      "japanese": "ゲノセクト",
+      "chinese": "盖诺赛克特",
+      "french": "Genesect"
+    },
+    "type": [
+      "Bug",
+      "Steel"
+    ],
+    "base": {
+      "HP": 71,
+      "Attack": 120,
+      "Defense": 95,
+      "Sp. Attack": 120,
+      "Sp. Defense": 95,
+      "Speed": 99
+    }
+  },
+  {
+    "id": 650,
+    "name": {
+      "english": "Chespin",
+      "japanese": "ハリマロン",
+      "chinese": "哈力栗",
+      "french": "Marisson"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 56,
+      "Attack": 61,
+      "Defense": 65,
+      "Sp. Attack": 48,
+      "Sp. Defense": 45,
+      "Speed": 38
+    }
+  },
+  {
+    "id": 651,
+    "name": {
+      "english": "Quilladin",
+      "japanese": "ハリボーグ",
+      "chinese": "胖胖哈力",
+      "french": "Boguérisse"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 61,
+      "Attack": 78,
+      "Defense": 95,
+      "Sp. Attack": 56,
+      "Sp. Defense": 58,
+      "Speed": 57
+    }
+  },
+  {
+    "id": 652,
+    "name": {
+      "english": "Chesnaught",
+      "japanese": "ブリガロン",
+      "chinese": "布里卡隆",
+      "french": "Blindépique"
+    },
+    "type": [
+      "Grass",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 88,
+      "Attack": 107,
+      "Defense": 122,
+      "Sp. Attack": 74,
+      "Sp. Defense": 75,
+      "Speed": 64
+    }
+  },
+  {
+    "id": 653,
+    "name": {
+      "english": "Fennekin",
+      "japanese": "フォッコ",
+      "chinese": "火狐狸",
+      "french": "Feunnec"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 40,
+      "Sp. Attack": 62,
+      "Sp. Defense": 60,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 654,
+    "name": {
+      "english": "Braixen",
+      "japanese": "テールナー",
+      "chinese": "长尾火狐",
+      "french": "Roussil"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 59,
+      "Attack": 59,
+      "Defense": 58,
+      "Sp. Attack": 90,
+      "Sp. Defense": 70,
+      "Speed": 73
+    }
+  },
+  {
+    "id": 655,
+    "name": {
+      "english": "Delphox",
+      "japanese": "マフォクシー",
+      "chinese": "妖火红狐",
+      "french": "Goupelin"
+    },
+    "type": [
+      "Fire",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 69,
+      "Defense": 72,
+      "Sp. Attack": 114,
+      "Sp. Defense": 100,
+      "Speed": 104
+    }
+  },
+  {
+    "id": 656,
+    "name": {
+      "english": "Froakie",
+      "japanese": "ケロマツ",
+      "chinese": "呱呱泡蛙",
+      "french": "Grenousse"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 41,
+      "Attack": 56,
+      "Defense": 40,
+      "Sp. Attack": 62,
+      "Sp. Defense": 44,
+      "Speed": 71
+    }
+  },
+  {
+    "id": 657,
+    "name": {
+      "english": "Frogadier",
+      "japanese": "ゲコガシラ",
+      "chinese": "呱头蛙",
+      "french": "Croâporal"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 54,
+      "Attack": 63,
+      "Defense": 52,
+      "Sp. Attack": 83,
+      "Sp. Defense": 56,
+      "Speed": 97
+    }
+  },
+  {
+    "id": 658,
+    "name": {
+      "english": "Greninja",
+      "japanese": "ゲッコウガ",
+      "chinese": "甲贺忍蛙",
+      "french": "Amphinobi"
+    },
+    "type": [
+      "Water",
+      "Dark"
+    ],
+    "base": {
+      "HP": 72,
+      "Attack": 95,
+      "Defense": 67,
+      "Sp. Attack": 103,
+      "Sp. Defense": 71,
+      "Speed": 122
+    }
+  },
+  {
+    "id": 659,
+    "name": {
+      "english": "Bunnelby",
+      "japanese": "ホルビー",
+      "chinese": "掘掘兔",
+      "french": "Sapereau"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 38,
+      "Attack": 36,
+      "Defense": 38,
+      "Sp. Attack": 32,
+      "Sp. Defense": 36,
+      "Speed": 57
+    }
+  },
+  {
+    "id": 660,
+    "name": {
+      "english": "Diggersby",
+      "japanese": "ホルード",
+      "chinese": "掘地兔",
+      "french": "Excavarenne"
+    },
+    "type": [
+      "Normal",
+      "Ground"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 56,
+      "Defense": 77,
+      "Sp. Attack": 50,
+      "Sp. Defense": 77,
+      "Speed": 78
+    }
+  }
+]

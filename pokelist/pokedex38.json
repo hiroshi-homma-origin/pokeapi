@@ -1,0 +1,415 @@
+[
+  {
+    "id": 741,
+    "name": {
+      "english": "Oricorio",
+      "japanese": "オドリドリ",
+      "chinese": "花舞鸟",
+      "french": "Plumeline"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 70,
+      "Defense": 70,
+      "Sp. Attack": 98,
+      "Sp. Defense": 70,
+      "Speed": 93
+    }
+  },
+  {
+    "id": 742,
+    "name": {
+      "english": "Cutiefly",
+      "japanese": "アブリー",
+      "chinese": "萌虻",
+      "french": "Bombydou"
+    },
+    "type": [
+      "Bug",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 40,
+      "Sp. Attack": 55,
+      "Sp. Defense": 40,
+      "Speed": 84
+    }
+  },
+  {
+    "id": 743,
+    "name": {
+      "english": "Ribombee",
+      "japanese": "アブリボン",
+      "chinese": "蝶结萌虻",
+      "french": "Rubombelle"
+    },
+    "type": [
+      "Bug",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 55,
+      "Defense": 60,
+      "Sp. Attack": 95,
+      "Sp. Defense": 70,
+      "Speed": 124
+    }
+  },
+  {
+    "id": 744,
+    "name": {
+      "english": "Rockruff",
+      "japanese": "イワンコ",
+      "chinese": "岩狗狗",
+      "french": "Rocabot"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 65,
+      "Defense": 40,
+      "Sp. Attack": 30,
+      "Sp. Defense": 40,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 745,
+    "name": {
+      "english": "Lycanroc",
+      "japanese": "ルガルガン",
+      "chinese": "鬃岩狼人",
+      "french": "Lougaroc"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 115,
+      "Defense": 65,
+      "Sp. Attack": 55,
+      "Sp. Defense": 65,
+      "Speed": 112
+    }
+  },
+  {
+    "id": 746,
+    "name": {
+      "english": "Wishiwashi",
+      "japanese": "ヨワシ",
+      "chinese": "弱丁鱼",
+      "french": "Froussardine"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 20,
+      "Defense": 20,
+      "Sp. Attack": 25,
+      "Sp. Defense": 25,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 747,
+    "name": {
+      "english": "Mareanie",
+      "japanese": "ヒドイデ",
+      "chinese": "好坏星",
+      "french": "Vorastérie"
+    },
+    "type": [
+      "Poison",
+      "Water"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 53,
+      "Defense": 62,
+      "Sp. Attack": 43,
+      "Sp. Defense": 52,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 748,
+    "name": {
+      "english": "Toxapex",
+      "japanese": "ドヒドイデ",
+      "chinese": "超坏星",
+      "french": "Prédastérie"
+    },
+    "type": [
+      "Poison",
+      "Water"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 63,
+      "Defense": 152,
+      "Sp. Attack": 53,
+      "Sp. Defense": 142,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 749,
+    "name": {
+      "english": "Mudbray",
+      "japanese": "ドロバンコ",
+      "chinese": "泥驴仔",
+      "french": "Tiboudet"
+    },
+    "type": [
+      "Ground"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 100,
+      "Defense": 70,
+      "Sp. Attack": 45,
+      "Sp. Defense": 55,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 750,
+    "name": {
+      "english": "Mudsdale",
+      "japanese": "バンバドロ",
+      "chinese": "重泥挽马",
+      "french": "Bourrinos"
+    },
+    "type": [
+      "Ground"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 125,
+      "Defense": 100,
+      "Sp. Attack": 55,
+      "Sp. Defense": 85,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 751,
+    "name": {
+      "english": "Dewpider",
+      "japanese": "シズクモ",
+      "chinese": "滴蛛",
+      "french": "Araqua"
+    },
+    "type": [
+      "Water",
+      "Bug"
+    ],
+    "base": {
+      "HP": 38,
+      "Attack": 40,
+      "Defense": 52,
+      "Sp. Attack": 40,
+      "Sp. Defense": 72,
+      "Speed": 27
+    }
+  },
+  {
+    "id": 752,
+    "name": {
+      "english": "Araquanid",
+      "japanese": "オニシズクモ",
+      "chinese": "滴蛛霸",
+      "french": "Tarenbulle"
+    },
+    "type": [
+      "Water",
+      "Bug"
+    ],
+    "base": {
+      "HP": 68,
+      "Attack": 70,
+      "Defense": 92,
+      "Sp. Attack": 50,
+      "Sp. Defense": 132,
+      "Speed": 42
+    }
+  },
+  {
+    "id": 753,
+    "name": {
+      "english": "Fomantis",
+      "japanese": "カリキリ",
+      "chinese": "伪螳草",
+      "french": "Mimantis"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 55,
+      "Defense": 35,
+      "Sp. Attack": 50,
+      "Sp. Defense": 35,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 754,
+    "name": {
+      "english": "Lurantis",
+      "japanese": "ラランテス",
+      "chinese": "兰螳花",
+      "french": "Floramantis"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 105,
+      "Defense": 90,
+      "Sp. Attack": 80,
+      "Sp. Defense": 90,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 755,
+    "name": {
+      "english": "Morelull",
+      "japanese": "ネマシュ",
+      "chinese": "睡睡菇",
+      "french": "Spododo"
+    },
+    "type": [
+      "Grass",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 35,
+      "Defense": 55,
+      "Sp. Attack": 65,
+      "Sp. Defense": 75,
+      "Speed": 15
+    }
+  },
+  {
+    "id": 756,
+    "name": {
+      "english": "Shiinotic",
+      "japanese": "マシェード",
+      "chinese": "灯罩夜菇",
+      "french": "Lampignon"
+    },
+    "type": [
+      "Grass",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 45,
+      "Defense": 80,
+      "Sp. Attack": 90,
+      "Sp. Defense": 100,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 757,
+    "name": {
+      "english": "Salandit",
+      "japanese": "ヤトウモリ",
+      "chinese": "夜盗火蜥",
+      "french": "Tritox"
+    },
+    "type": [
+      "Poison",
+      "Fire"
+    ],
+    "base": {
+      "HP": 48,
+      "Attack": 44,
+      "Defense": 40,
+      "Sp. Attack": 71,
+      "Sp. Defense": 40,
+      "Speed": 77
+    }
+  },
+  {
+    "id": 758,
+    "name": {
+      "english": "Salazzle",
+      "japanese": "エンニュート",
+      "chinese": "焰后蜥",
+      "french": "Malamandre"
+    },
+    "type": [
+      "Poison",
+      "Fire"
+    ],
+    "base": {
+      "HP": 68,
+      "Attack": 64,
+      "Defense": 60,
+      "Sp. Attack": 111,
+      "Sp. Defense": 60,
+      "Speed": 117
+    }
+  },
+  {
+    "id": 759,
+    "name": {
+      "english": "Stufful",
+      "japanese": "ヌイコグマ",
+      "chinese": "童偶熊",
+      "french": "Nounourson"
+    },
+    "type": [
+      "Normal",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 75,
+      "Defense": 50,
+      "Sp. Attack": 45,
+      "Sp. Defense": 50,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 760,
+    "name": {
+      "english": "Bewear",
+      "japanese": "キテルグマ",
+      "chinese": "穿着熊",
+      "french": "Chelours"
+    },
+    "type": [
+      "Normal",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 120,
+      "Attack": 125,
+      "Defense": 80,
+      "Sp. Attack": 55,
+      "Sp. Defense": 60,
+      "Speed": 60
+    }
+  }
+]
